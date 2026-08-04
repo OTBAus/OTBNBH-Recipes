@@ -1,0 +1,20 @@
+# The Prep Book — Netlify configuration
+
+[build]
+  publish = "public"
+  functions = "netlify/functions"
+
+[functions]
+  node_bundler = "esbuild"
+
+# Photos that ship with the site are content, not code: cache them hard.
+[[headers]]
+  for = "/photos/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# The page itself must always be fresh, or a deploy won't reach the tablets.
+[[headers]]
+  for = "/index.html"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
