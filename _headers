@@ -1,0 +1,14 @@
+# Netlify serves this site's HTML from its CDN. Without this, a browser can
+# hold on to an old copy of index.html for a long time after a deploy — which
+# is exactly how you end up testing a build you already replaced, and
+# concluding the code is broken when it isn't.
+#
+# The page is a single self-contained file with the fonts and logo inlined,
+# so there is nothing to gain from caching it and everything to lose.
+
+/*
+  Cache-Control: no-cache, must-revalidate
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Robots-Tag: noindex, nofollow
