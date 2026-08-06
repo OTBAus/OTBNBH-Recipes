@@ -1,0 +1,6213 @@
+{
+  "version": 1,
+  "chapters": [
+    {
+      "num": 1,
+      "name": "Olives, Dips & Cheese",
+      "image": ""
+    },
+    {
+      "num": 2,
+      "name": "Butters, Jams & Preserves",
+      "image": ""
+    },
+    {
+      "num": 3,
+      "name": "Dressings & Oils",
+      "image": ""
+    },
+    {
+      "num": 4,
+      "name": "Sauces",
+      "image": ""
+    },
+    {
+      "num": 5,
+      "name": "Gravys & Jus",
+      "image": ""
+    },
+    {
+      "num": 6,
+      "name": "Flours & Seasoning",
+      "image": ""
+    },
+    {
+      "num": 7,
+      "name": "Beef, Fish, Pig & Things",
+      "image": ""
+    },
+    {
+      "num": 8,
+      "name": "Desserts & Sweets",
+      "image": ""
+    },
+    {
+      "num": 9,
+      "name": "Pizza Dough",
+      "image": ""
+    },
+    {
+      "num": 10,
+      "name": "Everything Else",
+      "image": ""
+    }
+  ],
+  "recipes": [
+    {
+      "id": "byron-bay-olives",
+      "title": "OLIVE seasoning",
+      "chapter": 1,
+      "page": 7,
+      "yield": "Yield 80 serves",
+      "shelf_life": "Shelf Life: 365 Days",
+      "ingredients": [
+        {
+          "text": "10kg Bucket Byron Bay Olives",
+          "heading": false
+        },
+        {
+          "text": "10 x Orange (ZEST ONLY)",
+          "heading": false
+        },
+        {
+          "text": "5 x Lemons (ZEST ONLY)",
+          "heading": false
+        },
+        {
+          "text": "20 x Cinnamon Quills",
+          "heading": false
+        },
+        {
+          "text": "20 x Whole Star Anise",
+          "heading": false
+        },
+        {
+          "text": "1 x Lime (ZEST ONLY)",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Heat Spices to smoking in a pan. Add whilst hot into the olive bucket and submerge with remaining ingredients."
+      ],
+      "image": "",
+      "slug": "byron-bay-olives",
+      "dish": [
+        "Warm Australian Olives"
+      ]
+    },
+    {
+      "id": "o-d-o-cheese",
+      "title": "O.D.O CHEESE",
+      "chapter": 1,
+      "page": 7,
+      "yield": "Yield 50 serves",
+      "shelf_life": "Shelf Life: 15 Days",
+      "ingredients": [
+        {
+          "text": "36L Full Cream Milk",
+          "heading": false
+        },
+        {
+          "text": "120g Flaky Salt",
+          "heading": false
+        },
+        {
+          "text": "1.5L White Vinegar",
+          "heading": false
+        },
+        {
+          "text": "Thickened Cream",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Pour milk into a saucepan. Heat slowly to 45ºC.",
+        "Add vinegar, turn off heat and let curdle for 5 minutes.",
+        "Strain through cheesecloth and rinse curds with cold water.",
+        "Squeeze curds to remove liquid.",
+        "Blend in a Robocoupe with salt and cream until smooth."
+      ],
+      "image": "",
+      "slug": "o-d-o-cheese"
+    },
+    {
+      "id": "creme-fraiche",
+      "title": "CRÈME FRAÎCHE",
+      "chapter": 1,
+      "page": 8,
+      "yield": "Yield: 25 serves",
+      "shelf_life": "Shelf Life: 10 days",
+      "ingredients": [
+        {
+          "text": "3L Good Quality Pouring Cream",
+          "heading": false
+        },
+        {
+          "text": "360ml Buttermilk",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Stir together cream and buttermilk in a container and leave at room temperature until thick (24-40 hours, depending on climate; do not stir). Refrigerate until required."
+      ],
+      "image": "",
+      "slug": "creme-fraiche"
+    },
+    {
+      "id": "radish-top-pesto",
+      "title": "RADISH TOP PESTO",
+      "chapter": 1,
+      "page": 8,
+      "yield": "Yield: 20 serves",
+      "shelf_life": "Shelf Life: 15 days",
+      "ingredients": [
+        {
+          "text": "250g Macadamia",
+          "heading": false
+        },
+        {
+          "text": "4 Small Garlic Clove",
+          "heading": false
+        },
+        {
+          "text": "15g Sea Salt",
+          "heading": false
+        },
+        {
+          "text": "Freshly Ground Black Pepper",
+          "heading": false
+        },
+        {
+          "text": "60ml Lemon Juice",
+          "heading": false
+        },
+        {
+          "text": "4 Radish Greens",
+          "heading": false
+        },
+        {
+          "text": "4 Cup Basil",
+          "heading": false
+        },
+        {
+          "text": "250ml Cup Extra-Virgin Olive Oil",
+          "heading": false
+        },
+        {
+          "text": "150g Parmesan",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Blitz all ingredients in Robocoupe until almost smooth. Mixture should be a touch chunky. Add into 250ml 4x4 & store."
+      ],
+      "image": "",
+      "slug": "radish-top-pesto",
+      "dish": []
+    },
+    {
+      "id": "mums-hummus",
+      "title": "MUMS HUMMUS",
+      "chapter": 1,
+      "page": 9,
+      "yield": "Yield 20 serves",
+      "shelf_life": "Shelf Life: 7 days",
+      "ingredients": [
+        {
+          "text": "2kg Chickpeas",
+          "heading": false
+        },
+        {
+          "text": "9 Garlic Cloves",
+          "heading": false
+        },
+        {
+          "text": "520ml Tahini",
+          "heading": false
+        },
+        {
+          "text": "16g Salt",
+          "heading": false
+        },
+        {
+          "text": "Pinch of Ground Cumin",
+          "heading": false
+        },
+        {
+          "text": "195ml Lemon Juice",
+          "heading": false
+        },
+        {
+          "text": "195ml Olive Oil",
+          "heading": false
+        },
+        {
+          "text": "470ml Water",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Blend garlic cloves in a food processor with 200ml water until very smooth. Pour through a sieve and keep the liquid, discarding the puréed garlic pulp. This method gives a smoother result with a gentler garlic taste. ",
+        "Drain chickpeas, blend until they're reduced to a smooth paste; this will take about 7 to 10 minutes.",
+        " Add tahini, the reserved garlic water, salt and cumin and blend well, scraping sides occasionally and adding more water if necessary. ",
+        "Transfer to a large bowl and whisk in lemon juice (be gentle; you don't want to over-aerate the hummus and lose its dense consistency)."
+      ],
+      "image": "",
+      "slug": "mums-hummus",
+      "dish": []
+    },
+    {
+      "id": "garlic-toum",
+      "title": "GARLIC TOUM",
+      "chapter": 1,
+      "page": 10,
+      "yield": "Yield: 60 serves",
+      "shelf_life": "Shelf Life: 60 days",
+      "ingredients": [
+        {
+          "text": "5.5L Neutral Oil",
+          "heading": false
+        },
+        {
+          "text": "600g Garlic Clove (germ removed)",
+          "heading": false
+        },
+        {
+          "text": "60g Salt",
+          "heading": false
+        },
+        {
+          "text": "150ml Lemon Juice",
+          "heading": false
+        },
+        {
+          "text": "150g Ice Cubes",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Blitz garlic, and 1L of oil in a blender until smooth. Add to a large Cambro. Pour remaining oil in slowly. \n\n The oil MUST be added slowly. If you split it you need to double the recipe. You CANNOT bring it back.",
+        "Add Lemon juice & salt slowly alternating between oil, lemon & salt. Add ice cubes to thin and keep the oil cool. The oil MUST be added slowly. If you split it you need to double the recipe. You CANNOT bring it back."
+      ],
+      "image": "",
+      "slug": "garlic-toum"
+    },
+    {
+      "id": "wild-rocket-verde",
+      "title": "WILD ROCKET VERDE",
+      "chapter": 1,
+      "page": 10,
+      "yield": "Yield: 30 serves",
+      "shelf_life": "Shelf Life: 12 days",
+      "ingredients": [
+        {
+          "text": "600g Wild Rocket",
+          "heading": false
+        },
+        {
+          "text": "2 Bunch Italian Parsley, picked",
+          "heading": false
+        },
+        {
+          "text": "100g Capers",
+          "heading": false
+        },
+        {
+          "text": "6 Anchovy Fillets",
+          "heading": false
+        },
+        {
+          "text": "2 Whole Lemons",
+          "heading": false
+        },
+        {
+          "text": "2 tbsp Dijon Mustard",
+          "heading": false
+        },
+        {
+          "text": "1200ml Olive Oil",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Pulse ingredients together. DO NOT OVER BLEND."
+      ],
+      "image": "",
+      "slug": "wild-rocket-verde"
+    },
+    {
+      "id": "whipped-cauliflower",
+      "title": "WHIPPED CAULIFLOWER",
+      "chapter": 1,
+      "page": 11,
+      "yield": "Yield: 40 serves",
+      "shelf_life": "Shelf life: 3 days",
+      "ingredients": [
+        {
+          "text": "5kg Cauliflower",
+          "heading": false
+        },
+        {
+          "text": "50g Garlic",
+          "heading": false
+        },
+        {
+          "text": "150g Unsalted Butter",
+          "heading": false
+        },
+        {
+          "text": "125g Parmesan",
+          "heading": false
+        },
+        {
+          "text": "15g Flaky Salt",
+          "heading": false
+        },
+        {
+          "text": "225ml Cooking Water",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Cut the cauliflower florets, dice the stem down and boil for 10 minutes until soft. Once cooked drain off and reserve 225ml of the cooking water. blend with all the remaining ingredients. Do it in batches. Once thoroughly combined, add everything into vac bags, seal and refrigerate."
+      ],
+      "image": "",
+      "slug": "whipped-cauliflower"
+    },
+    {
+      "id": "whipped-feta",
+      "title": "WHIPPED FETA",
+      "chapter": 1,
+      "page": 11,
+      "yield": "Yield: 20 serves",
+      "shelf_life": "Shelf Life: 20 days",
+      "ingredients": [
+        {
+          "text": "1kg Greek Feta",
+          "heading": false
+        },
+        {
+          "text": "500g Greek Yoghurt",
+          "heading": false
+        },
+        {
+          "text": "100ml olive oil",
+          "heading": false
+        },
+        {
+          "text": "80g Honey",
+          "heading": false
+        },
+        {
+          "text": "50ml Lemon Juice",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Method Add to the robocoupe with 1kg Greek Feta. Blend until smooth. It will form a thick paste. Add remaining greek yoghurt slowly until whipped into a smooth cream. Add lemon, honey and whip for a further 3 minutes until completely smooth."
+      ],
+      "image": "",
+      "slug": "whipped-feta"
+    },
+    {
+      "id": "macadamia-salsa-verde",
+      "title": "MACADAMIA SALSA VERDE",
+      "chapter": 1,
+      "page": 12,
+      "yield": "Yield: 15 serves",
+      "shelf_life": "Shelf life: 15 days",
+      "ingredients": [
+        {
+          "text": "350g Parmesan",
+          "heading": false
+        },
+        {
+          "text": "350g Roasted Macadamia",
+          "heading": false
+        },
+        {
+          "text": "350ml Olive Oil",
+          "heading": false
+        },
+        {
+          "text": "420g Rocket",
+          "heading": false
+        },
+        {
+          "text": "300ml Lemon Juice",
+          "heading": false
+        },
+        {
+          "text": "30g Lemon Zest",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Blanch Rocket in rolling water for 20 seconds to set colour. Blitz all ingredients in the stand blender and season with salt & pepper to taste."
+      ],
+      "image": "",
+      "slug": "macadamia-salsa-verde"
+    },
+    {
+      "id": "whipped-cauliflower-2",
+      "title": "WHIPPED CAULIFLOWER",
+      "chapter": 1,
+      "page": 12,
+      "yield": "Yield: 40 serves",
+      "shelf_life": "Shelf life: 3 days",
+      "ingredients": [
+        {
+          "text": "5kg Cauliflower",
+          "heading": false
+        },
+        {
+          "text": "50g Garlic",
+          "heading": false
+        },
+        {
+          "text": "150g Unsalted Butter",
+          "heading": false
+        },
+        {
+          "text": "125g Parmesan",
+          "heading": false
+        },
+        {
+          "text": "15g Flaky Salt",
+          "heading": false
+        },
+        {
+          "text": "225ml Cooking Water",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Cut the cauliflower florets, dice the stem down and boil for 10 minutes until soft. Once cooked drain off and reserve 225ml of the cooking water. blend with all the remaining ingredients. Do it in batches. Once thoroughly combined, add everything into vac bags, seal and refrigerate."
+      ],
+      "image": "",
+      "slug": "whipped-cauliflower-2"
+    },
+    {
+      "id": "fermented-cashew-cheese",
+      "title": "FERMENTED CASHEW CHEESE",
+      "chapter": 1,
+      "page": 13,
+      "yield": "Yield: 15 serves",
+      "shelf_life": "Shelf life: 15 days",
+      "ingredients": [
+        {
+          "text": "STEP ONE:",
+          "heading": true
+        },
+        {
+          "text": "2% Salt Brine",
+          "heading": false
+        },
+        {
+          "text": "200g Raw Cashews",
+          "heading": false
+        },
+        {
+          "text": "4g Table Salt",
+          "heading": false
+        },
+        {
+          "text": "300ml Water",
+          "heading": false
+        },
+        {
+          "text": "Cheese Blend",
+          "heading": false
+        },
+        {
+          "text": "STEP TWO:",
+          "heading": true
+        },
+        {
+          "text": "200g Fermented Cashews (from recipe above)",
+          "heading": false
+        },
+        {
+          "text": "2tsp White Miso Paste",
+          "heading": false
+        },
+        {
+          "text": "2tbsp Nutritional Yeast",
+          "heading": false
+        },
+        {
+          "text": "1tbsp Lemon Juice",
+          "heading": false
+        },
+        {
+          "text": "½ tsp Flaky Sea Salt",
+          "heading": false
+        },
+        {
+          "text": "2 tsp Salt Brine To Season",
+          "heading": false
+        }
+      ],
+      "method": [
+        "STEP ONE: Add Cashews into a vaccum bag, fill with water and salt from step one. Vaccum and leave to ferment for 4 days leave to ferment. After 5 days, drain cashews and reserve the brine. STEP TWO: Add cashews to the blender with miso, nutritional yeast, lemon juice, flaky salt and salt brine and blend until smooth. Blend until smooth and creamy, pour into a bowl lined with cheese cloth. Tie the cheesecloth and hang in the coolroom for a further 5 days to finish fermenting."
+      ],
+      "image": "",
+      "slug": "fermented-cashew-cheese"
+    },
+    {
+      "id": "zucchini-pickles",
+      "title": "ZUCCHINI PICKLES",
+      "chapter": 1,
+      "page": 14,
+      "yield": "Yield: 35kg",
+      "shelf_life": "Shelf Life: 120 days",
+      "ingredients": [
+        {
+          "text": "18kg Zucchini",
+          "heading": false
+        },
+        {
+          "text": "2kg Brown Onion",
+          "heading": false
+        },
+        {
+          "text": "110g Fine Salt",
+          "heading": false
+        },
+        {
+          "text": "9L White Wine Vinegar",
+          "heading": false
+        },
+        {
+          "text": "4.5L Water",
+          "heading": false
+        },
+        {
+          "text": "1.4kg Sugar",
+          "heading": false
+        },
+        {
+          "text": "10g Dried Mint",
+          "heading": false
+        },
+        {
+          "text": "55g Mustard Seeds",
+          "heading": false
+        },
+        {
+          "text": "35g Chilli Flakes",
+          "heading": false
+        },
+        {
+          "text": "6g Black Peppercorn",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Slice zucchinis and onion through the 2mm blade on the large robocoupe into a large perforated bain. Sprinkle with salt and leave to sit for 2 hours to draw out the moisture. In the meantime make the brine by combining the vinegar, water and sugar. Bring to a boil to ensure the sugar has dissolved. Allow the brine to cool, add herbs and spices and pour over zucchini. Store in an airtight container."
+      ],
+      "image": "",
+      "slug": "zucchini-pickles"
+    },
+    {
+      "id": "curry-butter",
+      "title": "prawn head CURRY BUTTER",
+      "chapter": 2,
+      "page": 16,
+      "yield": "Yield: 60 serves",
+      "shelf_life": "Shelf Life: 60 Days",
+      "ingredients": [
+        {
+          "text": "120g Minced Garlic",
+          "heading": false
+        },
+        {
+          "text": "44g Ground Turmeric",
+          "heading": false
+        },
+        {
+          "text": "18g Ground Fennel",
+          "heading": false
+        },
+        {
+          "text": "20g Ground Cumin",
+          "heading": false
+        },
+        {
+          "text": "4g Smoked Paprika",
+          "heading": false
+        },
+        {
+          "text": "200g Baby Capers (finely chopped)",
+          "heading": false
+        },
+        {
+          "text": "1.6kg Unsalted Grass Fed Butter",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Leave butter to soften overnight. Mix all ingredients thoroughly. Roll into logs and store in the refrigerator."
+      ],
+      "image": "",
+      "slug": "curry-butter",
+      "dish": [
+        "Wood Fired Jumbo King Prawns"
+      ]
+    },
+    {
+      "id": "sundried-tomato-butter",
+      "title": "SUNDRIED TOMATO BUTTER",
+      "chapter": 2,
+      "page": 16,
+      "yield": "Yield 60 serves",
+      "shelf_life": "Shelf Life: 60 Days",
+      "ingredients": [
+        {
+          "text": "2kg Sundried Tomatoes (Sandhurst)",
+          "heading": false
+        },
+        {
+          "text": "3kg Unsalted Grass Fed Butter",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Leave butter to soften overnight. Drain sundried tomatoes through a chinois and reserve the tomato oil. Remove ½ of the tomatoes and blend in the robocoupe into a paste. Remove and add to the butter in a large mixing bowl. With the remaining sundried tomatoes, pulse in the robocoupe into small chunks. Add to the butter and mix thoroughly. Roll into logs and store in the refrigerator."
+      ],
+      "image": "",
+      "slug": "sundried-tomato-butter"
+    },
+    {
+      "id": "garlic-parsley-snail-butter",
+      "title": "GARLIC & PARSLEY (SNAIL) BUTTER",
+      "chapter": 2,
+      "page": 17,
+      "yield": "Yield: 40 serves",
+      "shelf_life": "Shelf Life: 60 Days",
+      "ingredients": [
+        {
+          "text": "440g Minced Garlic",
+          "heading": false
+        },
+        {
+          "text": "85g Golden Shallots, coarsely chopped",
+          "heading": false
+        },
+        {
+          "text": "6 bunches Flat-leaf parsley leaves, finely chopped",
+          "heading": false
+        },
+        {
+          "text": "26g Flaky Salt",
+          "heading": false
+        },
+        {
+          "text": "2kg Unsalted Butter cubed and at room temperature",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Method : Leave butter to soften overnight. Mix all ingredients thoroughly. Roll into logs and store in the refrigerator."
+      ],
+      "image": "",
+      "slug": "garlic-parsley-snail-butter"
+    },
+    {
+      "id": "miso-butter",
+      "title": "MISO BUTTER",
+      "chapter": 2,
+      "page": 17,
+      "yield": "Yield: 50 serves",
+      "shelf_life": "Shelf Life: 60 Days",
+      "ingredients": [
+        {
+          "text": "1.5 kg Unsalted Butter, softened",
+          "heading": false
+        },
+        {
+          "text": "20 Banana Shallots, finely chopped",
+          "heading": false
+        },
+        {
+          "text": "300g White Miso Paste",
+          "heading": false
+        },
+        {
+          "text": "20 Garlic Cloves, finely chopped",
+          "heading": false
+        },
+        {
+          "text": "60g Parsley, finely chopped",
+          "heading": false
+        },
+        {
+          "text": "100g Dijon Mustard",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Leave butter to soften overnight. Add onions, miso, garlic, parsley and mustard into the robocoupe and blend until smooth. Mix all ingredients thoroughly. Roll into logs and store in the refrigerator."
+      ],
+      "image": "",
+      "slug": "miso-butter"
+    },
+    {
+      "id": "anchovy-butter",
+      "title": "ANCHOVY BUTTER",
+      "chapter": 2,
+      "page": 18,
+      "yield": "Yield: 50 serves",
+      "shelf_life": "Shelf Life: 60 Days",
+      "ingredients": [
+        {
+          "text": "3kg Unsalted Butter",
+          "heading": false
+        },
+        {
+          "text": "500g Aged Anchovies (fine slice)",
+          "heading": false
+        },
+        {
+          "text": "300g White Anchovies (fine slice)",
+          "heading": false
+        },
+        {
+          "text": "400g Capers (diced)",
+          "heading": false
+        },
+        {
+          "text": "150g French Shallots (fine dice)",
+          "heading": false
+        },
+        {
+          "text": "1 bunch Parsley (fine chop)",
+          "heading": false
+        },
+        {
+          "text": "60g Sea Salt",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Soften butter (do not melt). Add ingredients in and mix thoroughly. Season to taste if needed. Roll into"
+      ],
+      "image": "",
+      "slug": "anchovy-butter"
+    },
+    {
+      "id": "bone-marrow-butter",
+      "title": "BONE MARROW BUTTER",
+      "chapter": 2,
+      "page": 18,
+      "yield": "Yield: 50 serves",
+      "shelf_life": "Shelf Life: 60 Days",
+      "ingredients": [
+        {
+          "text": "2kg softened unsalted butter",
+          "heading": false
+        },
+        {
+          "text": "350g Bone Marrow",
+          "heading": false
+        },
+        {
+          "text": "100g shallots finely diced",
+          "heading": false
+        },
+        {
+          "text": "45g Ortiz anchovies fine chopped",
+          "heading": false
+        },
+        {
+          "text": "30g fine parsley",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Heavily salt the bone marrow and set aside in the fridge uncovered for 24hrs. Wash the salt off the bone marrow & pat dry. In the Pizza Oven roast bones on high for 8mins or until golden brown. Scrape the bone marrow into a large mixing bowl and add remaining ingredients."
+      ],
+      "image": "",
+      "slug": "bone-marrow-butter"
+    },
+    {
+      "id": "marukome-citrus-butter",
+      "title": "MARUKOME CITRUS BUTTER",
+      "chapter": 2,
+      "page": 19,
+      "yield": "Yield: 25 serves",
+      "shelf_life": "Shelf Life: 60 days",
+      "ingredients": [
+        {
+          "text": "2kg Unsalted Butter - cubed",
+          "heading": false
+        },
+        {
+          "text": "500g Marukome Miso Paste",
+          "heading": false
+        },
+        {
+          "text": "6 long red chillies - seeded removed fine dice",
+          "heading": false
+        },
+        {
+          "text": "2 whole grapefruit zest & juice",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Melt butter in a pot, add miso paste and whisk until combined. Add zest from 2 grapefruits and juice. Add fine chilli. Put into a bain and store"
+      ],
+      "image": "",
+      "slug": "marukome-citrus-butter"
+    },
+    {
+      "id": "tasmanian-truffle-butter",
+      "title": "TASMANIAN TRUFFLE BUTTER",
+      "chapter": 2,
+      "page": 19,
+      "yield": "Yield: 50 serves",
+      "shelf_life": "Shelf Life: 7 Days",
+      "ingredients": [
+        {
+          "text": "500g Softened Unsalted Butter",
+          "heading": false
+        },
+        {
+          "text": "30g Fresh Tasmanian Black Truffle",
+          "heading": false
+        },
+        {
+          "text": "20ml Truffle Oil",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Microplane into room temp butter, add in Truffle Oil & roll into log. Use within 1 week or Freeze to keep for months"
+      ],
+      "image": "",
+      "slug": "tasmanian-truffle-butter"
+    },
+    {
+      "id": "cafe-de-paris-butter",
+      "title": "CAFE DE PARIS BUTTER",
+      "chapter": 2,
+      "page": 20,
+      "yield": "Yield: 120 serves",
+      "shelf_life": "Shelf Life: 7 Days",
+      "ingredients": [
+        {
+          "text": "2.25kg Unsalted Butter",
+          "heading": false
+        },
+        {
+          "text": "2 tins Ortiz Anchovies",
+          "heading": false
+        },
+        {
+          "text": "450g Fine Chopped Parsley",
+          "heading": false
+        },
+        {
+          "text": "450g Fine Chives",
+          "heading": false
+        },
+        {
+          "text": "240g Garlic Minced",
+          "heading": false
+        },
+        {
+          "text": "450g Dijon Mustard",
+          "heading": false
+        },
+        {
+          "text": "225ml White Vermouth",
+          "heading": false
+        },
+        {
+          "text": "150g Capers",
+          "heading": false
+        },
+        {
+          "text": "150ml Lemon",
+          "heading": false
+        },
+        {
+          "text": "75g Paprika",
+          "heading": false
+        },
+        {
+          "text": "30g Keens Curry Powder",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Leave butter overnight on the bench to soften. Add all ingredients EXPECT FOR THE HERBS AND BUTTER into the robo and blitz until smooth. Transfer into a large mixing bowl with the herbs and butter and combine. Roll into logs and refrigerate."
+      ],
+      "image": "",
+      "slug": "cafe-de-paris-butter"
+    },
+    {
+      "id": "hot-honey-butter",
+      "title": "HOT HONEY BUTTER",
+      "chapter": 2,
+      "page": 20,
+      "yield": "Yield: 25 serves",
+      "shelf_life": "Shelf Life: 60 days",
+      "ingredients": [
+        {
+          "text": "250g Unsalted Butter - cubed",
+          "heading": false
+        },
+        {
+          "text": "75g Hot Honey",
+          "heading": false
+        },
+        {
+          "text": "7g Flaky Salt",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Mix all ingredients thoroughly. Roll into logs and store in the refrigerator."
+      ],
+      "image": "",
+      "slug": "hot-honey-butter",
+      "dish": []
+    },
+    {
+      "id": "espresso-caramel-butter",
+      "title": "ESPRESSO CARAMEL BUTTER",
+      "chapter": 2,
+      "page": 21,
+      "yield": "Yield: 120 serves",
+      "shelf_life": "Shelf Life: 7 Days",
+      "ingredients": [
+        {
+          "text": "2.25kg Unsalted Butter",
+          "heading": false
+        },
+        {
+          "text": "2 tins Ortiz Anchovies",
+          "heading": false
+        },
+        {
+          "text": "450g Fine Chopped Parsley",
+          "heading": false
+        },
+        {
+          "text": "450g Fine Chives",
+          "heading": false
+        },
+        {
+          "text": "240g Garlic Minced",
+          "heading": false
+        },
+        {
+          "text": "450g Dijon Mustard",
+          "heading": false
+        },
+        {
+          "text": "225ml White Vermouth",
+          "heading": false
+        },
+        {
+          "text": "150g Capers",
+          "heading": false
+        },
+        {
+          "text": "150ml Lemon",
+          "heading": false
+        },
+        {
+          "text": "75g Paprika",
+          "heading": false
+        },
+        {
+          "text": "30g Keens Curry Powder",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Leave butter overnight on the bench to soften. Add all ingredients EXPECT FOR THE HERBS AND BUTTER into the robo and blitz until smooth. Transfer into a large mixing bowl with the herbs and butter and combine. Roll into logs and refrigerate."
+      ],
+      "image": "",
+      "slug": "espresso-caramel-butter"
+    },
+    {
+      "id": "nduja-butter",
+      "title": "NDUJA BUTTER",
+      "chapter": 2,
+      "page": 21,
+      "yield": "Yield: 25 serves",
+      "shelf_life": "Shelf Life: 30 days unless refrigerated",
+      "ingredients": [
+        {
+          "text": "4kg Unsalted Butter - cubed",
+          "heading": false
+        },
+        {
+          "text": "500g Salumi Australia Nduja",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Mix all ingredients thoroughly. Roll into logs and store in the refrigerator."
+      ],
+      "image": "",
+      "slug": "nduja-butter"
+    },
+    {
+      "id": "apricot-preserve",
+      "title": "APRICOT PRESERVE",
+      "chapter": 2,
+      "page": 22,
+      "yield": "Yield 50 serves:",
+      "shelf_life": "Shelf Life: 60 Days",
+      "ingredients": [
+        {
+          "text": "6kg Apricot in Syrup (2 tins)",
+          "heading": false
+        },
+        {
+          "text": "1 cup Lemon Juice",
+          "heading": false
+        },
+        {
+          "text": "3.2kg Caster Sugar",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Simmer all ingredients for 3040 mins until reduced by 1/3 and sugar is dissolved."
+      ],
+      "image": "",
+      "slug": "apricot-preserve"
+    },
+    {
+      "id": "peach-preserve",
+      "title": "PEACH PRESERVE",
+      "chapter": 2,
+      "page": 22,
+      "yield": "Yield 50 serves",
+      "shelf_life": "Shelf Life: 60 Days",
+      "ingredients": [
+        {
+          "text": "6kg Peach in Syrup (2 tins)",
+          "heading": false
+        },
+        {
+          "text": "1.6kg Caster Sugar",
+          "heading": false
+        },
+        {
+          "text": "400ml Pendleton Estate Chardonnay Vinegar",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Simmer all ingredients for 30-40 mins until reduced by 1/3 and sugar is dissolved."
+      ],
+      "image": "",
+      "slug": "peach-preserve"
+    },
+    {
+      "id": "fennel-marmalade",
+      "title": "FENNEL MARMALADE",
+      "chapter": 2,
+      "page": 23,
+      "yield": "Yield 50 serves",
+      "shelf_life": "Shelf Life: 365 Days",
+      "ingredients": [
+        {
+          "text": "2 x Boxes Fennel (green tops removed)",
+          "heading": false
+        },
+        {
+          "text": "10L Pendelton Estate Chardonnay Vinegar",
+          "heading": false
+        },
+        {
+          "text": "8kg Caster Sugar",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Wash and thinly slice fennel. Take care not to get any green leaves in the fennel as they look like hair when cooked. In large pot, add fennel, vinegar, and sugar. Cook on low heat for 3 hours until golden brown. Stir frequently to prevent burning."
+      ],
+      "image": "",
+      "slug": "fennel-marmalade"
+    },
+    {
+      "id": "sweet-sour-sauce",
+      "title": "peach & apricot glaze",
+      "chapter": 2,
+      "page": 23,
+      "yield": "Yield 50 serves",
+      "shelf_life": "Shelf Life: 90 Days",
+      "ingredients": [
+        {
+          "text": "1.5L Peach Preserve - See Recipe",
+          "heading": false
+        },
+        {
+          "text": "1.5L Apricot Preserve - See Recipe",
+          "heading": false
+        },
+        {
+          "text": "825ml Light Corn Syrup",
+          "heading": false
+        },
+        {
+          "text": "750ml White Distilled Vinegar",
+          "heading": false
+        },
+        {
+          "text": "60ml Soy Sauce",
+          "heading": false
+        },
+        {
+          "text": "60ml French’s American Mustard",
+          "heading": false
+        },
+        {
+          "text": "36g Salt",
+          "heading": false
+        },
+        {
+          "text": "15g Garlic Powder",
+          "heading": false
+        },
+        {
+          "text": "855ml Water",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Whisk vinegar, soy sauce, mustard, salt, garlic powder, and water. Add remaining ingredients, simmer gently for 5 mins, stirring constantly."
+      ],
+      "image": "",
+      "slug": "sweet-sour-sauce",
+      "dish": [
+        "Sweet & Sour Fried Chicken",
+        "Fried Chicken Burger"
+      ]
+    },
+    {
+      "id": "citrus-gel",
+      "title": "CITRUS GEL",
+      "chapter": 2,
+      "page": 24,
+      "yield": "",
+      "shelf_life": "Shelf Life: 14 Days",
+      "ingredients": [
+        {
+          "text": "500ml Orange Juice",
+          "heading": false
+        },
+        {
+          "text": "15g Citric Acid",
+          "heading": false
+        },
+        {
+          "text": "100g White Sugar",
+          "heading": false
+        },
+        {
+          "text": "15g Agar",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Whisk extremely well on medium high heat until it comes to a boil. Take off heat. Cool for 30 mins and put into a squeeze bottle. Blitz on high, put into a squeeze bottle and store in the refrigerator."
+      ],
+      "image": "",
+      "slug": "citrus-gel"
+    },
+    {
+      "id": "watermelon-gel",
+      "title": "WATERMELON GEL",
+      "chapter": 2,
+      "page": 24,
+      "yield": "Yield: 25 serves",
+      "shelf_life": "Shelf Life: 14 Days",
+      "ingredients": [
+        {
+          "text": "500ml Watermelon Juice",
+          "heading": false
+        },
+        {
+          "text": "10g Citric Acid",
+          "heading": false
+        },
+        {
+          "text": "100g White Sugar",
+          "heading": false
+        },
+        {
+          "text": "15g Agar",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Whisk extremely well on medium high heat until it comes to a boil. Take off heat. Cool for 30 mins and put into a squeeze bottle. Blitz on high, put into a squeeze bottle and store in the refrigerator."
+      ],
+      "image": "",
+      "slug": "watermelon-gel"
+    },
+    {
+      "id": "smoked-pineapple-jam",
+      "title": "SMOKED PINEAPPLE JAM",
+      "chapter": 2,
+      "page": 25,
+      "yield": "Yield: 30 serves",
+      "shelf_life": "Shelf Life: 365 Days",
+      "ingredients": [
+        {
+          "text": "8 Pineapples",
+          "heading": false
+        },
+        {
+          "text": "Anise Sugar Syrup",
+          "heading": false
+        },
+        {
+          "text": "1L Water",
+          "heading": false
+        },
+        {
+          "text": "750g Rapadura Sugar",
+          "heading": false
+        },
+        {
+          "text": "750g Brown Sugar",
+          "heading": false
+        },
+        {
+          "text": "8 Star Anise",
+          "heading": false
+        },
+        {
+          "text": "40 Black Peppercorns",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Remove top from pineapples and smoke with skin on in the Traeger for 5hrs @ 75ºc. Char the pineapple on the burners and leave to cool overnight. The following day, remove skin, slice thin on the meat slicer (leave core in) and fine dice. Make the Anises Sugar Syrup by combining the water, sugars, anise and peppercorns in a pot and bring to the boil. Reduce by ¼ and pour over the diced pineapple. Allow to cool. Let sit for 72hrs to macerate."
+      ],
+      "image": "",
+      "slug": "smoked-pineapple-jam",
+      "dish": [
+        "Nduja & Smoked Pineapple Pizza"
+      ]
+    },
+    {
+      "id": "mango-capsicum-relish",
+      "title": "MANGO & CAPSICUM RELISH",
+      "chapter": 2,
+      "page": 26,
+      "yield": "Yield: 15 serves",
+      "shelf_life": "Shelf Life: 60 days",
+      "ingredients": [
+        {
+          "text": "500ml Water",
+          "heading": false
+        },
+        {
+          "text": "250g White Vinegar",
+          "heading": false
+        },
+        {
+          "text": "6 Whole Mangoes Diced",
+          "heading": false
+        },
+        {
+          "text": "300g Roast Capsicum",
+          "heading": false
+        },
+        {
+          "text": "1 White Onion Finely Chopped",
+          "heading": false
+        },
+        {
+          "text": "50g Grated Fresh Ginger",
+          "heading": false
+        },
+        {
+          "text": "1 Garlic Clove Minced",
+          "heading": false
+        },
+        {
+          "text": "1tsp White Mustard Seeds",
+          "heading": false
+        },
+        {
+          "text": "1/4tsp Chilli Flakes",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Add sugar and vinegar into a large pot and bring up to the boil. Stir until sugar has dissolved. Add the remaining ingredients and simmer on low heat until thickened, stirring occasionally."
+      ],
+      "image": "",
+      "slug": "mango-capsicum-relish"
+    },
+    {
+      "id": "cherry-mostarda",
+      "title": "CHERRY MOSTARDA",
+      "chapter": 2,
+      "page": 27,
+      "yield": "Yield: 32 serves",
+      "shelf_life": "Shelf Life: 12 days",
+      "ingredients": [
+        {
+          "text": "1.5kg Fresh Sweet Cherries, Pitted",
+          "heading": false
+        },
+        {
+          "text": "200ml Dry Vermouth",
+          "heading": false
+        },
+        {
+          "text": "450g Caster Sugar",
+          "heading": false
+        },
+        {
+          "text": "225ml Red Wine Vinegar",
+          "heading": false
+        },
+        {
+          "text": "225ml Aged Balsamic Vinegar",
+          "heading": false
+        },
+        {
+          "text": "150ml Water",
+          "heading": false
+        },
+        {
+          "text": "3 Small Shallots, Finely Diced",
+          "heading": false
+        },
+        {
+          "text": "18g Salt",
+          "heading": false
+        },
+        {
+          "text": "3g Ground Allspice",
+          "heading": false
+        },
+        {
+          "text": "1.5g Ground Clove",
+          "heading": false
+        },
+        {
+          "text": "65g Dijon Mustard",
+          "heading": false
+        },
+        {
+          "text": "3 Tbsp Whole Yellow Mustard Seeds",
+          "heading": false
+        },
+        {
+          "text": "3 Tsp Dry Mustard Powder",
+          "heading": false
+        }
+      ],
+      "method": [
+        "In a medium saucepan over low heat, gently cook the shallots with a splash of water and pinch of salt until translucent. Add cherries, sugar, red wine vinegar, balsamic vinegar, and water. Simmer gently for 15–20 minutes, stirring occasionally until cherries soften and start to break down. Add allspice, clove, salt, mustard powder, whole mustard seeds, and Dijon. Stir well. Simmer another 20 – 25 minutes until it thickens slightly but retains syrupy consistency. It should coat the back of a spoon. Taste and adjust—add a touch more vinegar if it’s too sweet, or a bit more mustard powder for heat. Cool & rest: Let cool to room temp. Store in a sterilised jar in the fridge for at least 24 hours before use."
+      ],
+      "image": "",
+      "slug": "cherry-mostarda"
+    },
+    {
+      "id": "pea-mint-sauce",
+      "title": "PEA & MINT SAUCE",
+      "chapter": 2,
+      "page": 28,
+      "yield": "",
+      "shelf_life": "Shelf Life: 14 Days",
+      "ingredients": [
+        {
+          "text": "750g cooked white onion",
+          "heading": false
+        },
+        {
+          "text": "30g garlic roughly chopped",
+          "heading": false
+        },
+        {
+          "text": "625ml dry white wine",
+          "heading": false
+        },
+        {
+          "text": "1.5kg frozen peas, (blanched)",
+          "heading": false
+        },
+        {
+          "text": "250g dry parmesan cheese, finely grated",
+          "heading": false
+        },
+        {
+          "text": "Zest of 5 lemons",
+          "heading": false
+        },
+        {
+          "text": "Salt & black pepper to taste",
+          "heading": false
+        },
+        {
+          "text": "60g fresh mint leaves (packed)",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Blanch peas for 1 minute, cook white onion & garlic until soft and translucent. Add all ingredients to the blender and blitz until smooth."
+      ],
+      "image": "",
+      "slug": "pea-mint-sauce"
+    },
+    {
+      "id": "preserved-lemon-dressing",
+      "title": "PRESERVED LEMON DRESSING",
+      "chapter": 2,
+      "page": 28,
+      "yield": "Yield: 40 serves",
+      "shelf_life": "Shelf Life: 7 days",
+      "ingredients": [
+        {
+          "text": "6 whole preserved lemons, rinsed and seeds removed",
+          "heading": false
+        },
+        {
+          "text": "8 cloves garlic, peeled",
+          "heading": false
+        },
+        {
+          "text": "340 ml fresh lemon juice",
+          "heading": false
+        },
+        {
+          "text": "4 tbsp honey, to taste",
+          "heading": false
+        },
+        {
+          "text": "4 tsp Dijon mustard",
+          "heading": false
+        },
+        {
+          "text": "2 tsp cracked black pepper, to taste",
+          "heading": false
+        },
+        {
+          "text": "1.4L extra virgin olive oil",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Blend until smooth and creamy. Adjust seasoning with a touch more lemon juice or honey if balancing acidity for service. Yields roughly 2L of finished dressing. Keep refrigerated"
+      ],
+      "image": "",
+      "slug": "preserved-lemon-dressing",
+      "dish": [
+        "Green Beans & Spring Peas Salad"
+      ]
+    },
+    {
+      "id": "chilli-carrot-sambal",
+      "title": "CHILLI & CARROT SAMBAL",
+      "chapter": 2,
+      "page": 29,
+      "yield": "Yield: 38 serves",
+      "shelf_life": "Shelf Life: 90 days refrigerated",
+      "ingredients": [
+        {
+          "text": "1.5kg Long Red Chillis",
+          "heading": false
+        },
+        {
+          "text": "12 cloves garlic, peeled",
+          "heading": false
+        },
+        {
+          "text": "700g Carrots",
+          "heading": false
+        },
+        {
+          "text": "150g Ginger",
+          "heading": false
+        },
+        {
+          "text": "130g White Sugar",
+          "heading": false
+        },
+        {
+          "text": "30g Salt",
+          "heading": false
+        },
+        {
+          "text": "400ml White Vinegar",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Blitz chillis, carrots, ginger and garlic cloves in the robo with the sugar and salt for 4 minutes. Slowly pour in the vinegar until the sambal is smooth. Pour into a sealed container and knock out any air bubbles."
+      ],
+      "image": "",
+      "slug": "chilli-carrot-sambal",
+      "dish": [
+        "Honey Roast Pumpkin & Bitter Leaf"
+      ]
+    },
+    {
+      "id": "sour-grape-agrodolce",
+      "title": "SOUR GRAPE AGRODOLCE",
+      "chapter": 2,
+      "page": 30,
+      "yield": "Yield: 38 serves",
+      "shelf_life": "Shelf Life: 15 days refrigerated",
+      "ingredients": [
+        {
+          "text": "Ingredient",
+          "heading": false
+        },
+        {
+          "text": "¼ cup water",
+          "heading": false
+        },
+        {
+          "text": "1.5kg Green grapes, halved",
+          "heading": false
+        },
+        {
+          "text": "150g Currants or raisins",
+          "heading": false
+        },
+        {
+          "text": "160g Shallots, thinly sliced",
+          "heading": false
+        },
+        {
+          "text": "16g Garlic, minced",
+          "heading": false
+        },
+        {
+          "text": "150ml Chardonnay Vinegar",
+          "heading": false
+        },
+        {
+          "text": "70g Honey",
+          "heading": false
+        },
+        {
+          "text": "15g Native Thyme",
+          "heading": false
+        },
+        {
+          "text": "130g Roast almonds, roughly chopped",
+          "heading": false
+        },
+        {
+          "text": "15g Flaky salt",
+          "heading": false
+        }
+      ],
+      "method": [
+        "In a saucepan over medium heat, bring the 1/4 cup water to a boil. Add the golden raisins or currants and cook for 1 minute. Remove from the heat and set aside, letting the dried fruit soften and plump up. Cook the shallots and garlic and season with salt until softened. Add the vinegar and honey and cook, scraping the bottom of the pan. Add the grapes and thyme and stir to coat. Continue to cook, stirring occasionally, until sauce is thickened and the fruit is softened for about 5 to 8 minutes. Remove from heat. Drain the raisins or currants then mix them into the grapes with the toasted almonds and fresh rosemary. Taste and adjust the seasoning. Pour into a sealed container and knock out any air bubbles."
+      ],
+      "image": "",
+      "slug": "sour-grape-agrodolce"
+    },
+    {
+      "id": "green-tahini-dressing",
+      "title": "GREEN TAHINI DRESSING",
+      "chapter": 3,
+      "page": 32,
+      "yield": "Yield: 50 serves:",
+      "shelf_life": "Shelf Life: 14 days",
+      "ingredients": [
+        {
+          "text": "500g Kale, coarsely chopped – STEMS REMOVED",
+          "heading": false
+        },
+        {
+          "text": "100g Mint (firmly packed)",
+          "heading": false
+        },
+        {
+          "text": "100g Coriander (firmly packed)",
+          "heading": false
+        },
+        {
+          "text": "100g Flat-leaf Parsley (firmly packed)",
+          "heading": false
+        },
+        {
+          "text": "10 Garlic Cloves, coarsely chopped",
+          "heading": false
+        },
+        {
+          "text": "800ml Extra-Virgin Olive Oil",
+          "heading": false
+        },
+        {
+          "text": "2.5kg Greek Yoghurt",
+          "heading": false
+        },
+        {
+          "text": "800g Tahini",
+          "heading": false
+        },
+        {
+          "text": "350ml Lemon Juice",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Add kale, mint, coriander, parsley, garlic and oil blend until the oil reaches 63ºc. Pass through a fine chinois and discard any chunky pieces. Add the oil to the Greek yoghurt, tahini and lemon juice. Season to taste."
+      ],
+      "image": "",
+      "slug": "green-tahini-dressing"
+    },
+    {
+      "id": "fermented-chilli-mayo",
+      "title": "FERMENTED CHILLI MAYO",
+      "chapter": 3,
+      "page": 33,
+      "yield": "Yield: 50 serves",
+      "shelf_life": "Shelf Life: 120 Days",
+      "ingredients": [
+        {
+          "text": "1.5L Fermented Chilli Oil",
+          "heading": false
+        },
+        {
+          "text": "5L Hellmans Mayonnaise",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Add all ingredients to the blender until thoroughly combined."
+      ],
+      "image": "",
+      "slug": "fermented-chilli-mayo"
+    },
+    {
+      "id": "fermented-chilli-oil",
+      "title": "FERMENTED CHILLI OIL",
+      "chapter": 3,
+      "page": 33,
+      "yield": "Yield: 40 serves",
+      "shelf_life": "Shelf Life: 120 Days",
+      "ingredients": [
+        {
+          "text": "500g Long Red Chilli",
+          "heading": false
+        },
+        {
+          "text": "80g Fresh Garlic",
+          "heading": false
+        },
+        {
+          "text": "200ml Burrata Water",
+          "heading": false
+        },
+        {
+          "text": "1L Olive Oil",
+          "heading": false
+        },
+        {
+          "text": "STEP ONE",
+          "heading": true
+        }
+      ],
+      "method": [
+        "Add all ingredients to a vacuum bag and seal. Hang or store for 14 days.",
+        "STEP TWO",
+        "Add the bag to the blender with 800ml Olive Oil. Blend until oil reaches 63ºc. Remove from the heat and strain through a fine chinois."
+      ],
+      "image": "",
+      "slug": "fermented-chilli-oil"
+    },
+    {
+      "id": "confit-garlic-oil",
+      "title": "CONFIT GARLIC OIL",
+      "chapter": 3,
+      "page": 34,
+      "yield": "Yield: 40 serves",
+      "shelf_life": "Shelf Life: 20 Days",
+      "ingredients": [
+        {
+          "text": "2kg Whole Garlic Cloves",
+          "heading": false
+        },
+        {
+          "text": "3L Olive Oil",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Set the combi oven to 120ºc. Add the garlic and oil into a deep bain and cook until the garlic is soft and tender."
+      ],
+      "image": "",
+      "slug": "confit-garlic-oil"
+    },
+    {
+      "id": "prawn-head-oil",
+      "title": "PRAWN HEAD OIL",
+      "chapter": 3,
+      "page": 34,
+      "yield": "Yield: 50 serves",
+      "shelf_life": "Shelf Life: 20 Days",
+      "ingredients": [
+        {
+          "text": "5kg Prawn Heads & Shells",
+          "heading": false
+        },
+        {
+          "text": "3L Olive Oil",
+          "heading": false
+        },
+        {
+          "text": "500g Tomato Paste",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Set the combi oven to 180ºc, toss the prawns in the tomato paste and roast the prawn heads & shells for 20 minutes until the are a deep red/brown colour. Cover the shells in the oil and cook for a further 20 minutes. Careful strain the oil through a fine chinois and cheese cloth. Store in the refrigerator."
+      ],
+      "image": "",
+      "slug": "prawn-head-oil"
+    },
+    {
+      "id": "caesar-dressing",
+      "title": "CAESAR DRESSING",
+      "chapter": 3,
+      "page": 35,
+      "yield": "Yield: 25 serves",
+      "shelf_life": "",
+      "ingredients": [
+        {
+          "text": "900ml Hellmans Mayo",
+          "heading": false
+        },
+        {
+          "text": "75ml White Wine Vinegar",
+          "heading": false
+        },
+        {
+          "text": "75ml Dijon Mustard",
+          "heading": false
+        },
+        {
+          "text": "1 Tin Ortiz Anchovies",
+          "heading": false
+        },
+        {
+          "text": "60g Garlic Clove",
+          "heading": false
+        },
+        {
+          "text": "145ml Olive Oil",
+          "heading": false
+        },
+        {
+          "text": "450g Fine Parmesan",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Add all ingredients to a 15L mixing jug. Blitz until smooth. Pour into squeeze bottles and keep refrigerated at all times."
+      ],
+      "image": "",
+      "slug": "caesar-dressing",
+      "dish": [
+        "Caesar Salad"
+      ]
+    },
+    {
+      "id": "cashew-garlic-cream",
+      "title": "CASHEW & GARLIC CREAM",
+      "chapter": 3,
+      "page": 35,
+      "yield": "Yield: 40 serves",
+      "shelf_life": "Shelf Life: 120 Days",
+      "ingredients": [
+        {
+          "text": "2kg Roasted & Salted Cashew",
+          "heading": false
+        },
+        {
+          "text": "500g Confit Garlic",
+          "heading": false
+        },
+        {
+          "text": "200g Olive Oil",
+          "heading": false
+        },
+        {
+          "text": "500ml Water",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Soak cashews in 500ml of water overnight until softened. Add all ingredients into the robocoupe and blitz until combined."
+      ],
+      "image": "",
+      "slug": "cashew-garlic-cream"
+    },
+    {
+      "id": "basil-oil",
+      "title": "BASIL OIL",
+      "chapter": 3,
+      "page": 36,
+      "yield": "Yield: 30 serves",
+      "shelf_life": "Shelf Life: 7 Days",
+      "ingredients": [
+        {
+          "text": "8 bunches Basil",
+          "heading": false
+        },
+        {
+          "text": "Baby Spinach (Equal weight to Basil)",
+          "heading": false
+        },
+        {
+          "text": "500ml Neutral Oil",
+          "heading": false
+        }
+      ],
+      "method": [
+        "To make the herb oil, chop off and discard the heavier stalks, leaving you with about 150g of leaves. Blanch the leaves for 20 seconds in a large pot of boiling water, then remove and plunge immediately into a bowl of ice-cold water. Drain well, squeeze dry and roughly chop. Whiz the herbs in a blender with the oils, Strain through filter. Bag into a piping bag & hang until water separates. Make a small cut at the bottom of the bag, drain the water, pinch to stop the oil from coming out."
+      ],
+      "image": "",
+      "slug": "basil-oil"
+    },
+    {
+      "id": "lillypilly-dressing",
+      "title": "LILLYPILLY DRESSING",
+      "chapter": 3,
+      "page": 36,
+      "yield": "Yield: 40 serves",
+      "shelf_life": "Shelf Life: 15 days",
+      "ingredients": [
+        {
+          "text": "500g Lillypilly Berries",
+          "heading": false
+        },
+        {
+          "text": "500ml White Balsamic",
+          "heading": false
+        },
+        {
+          "text": "500ml Olive Oil",
+          "heading": false
+        },
+        {
+          "text": "200g Caster Sugar",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Put all ingredients into a blender and blitz until smooth"
+      ],
+      "image": "",
+      "slug": "lillypilly-dressing"
+    },
+    {
+      "id": "chive-oil",
+      "title": "CHIVE OIL",
+      "chapter": 3,
+      "page": 37,
+      "yield": "Yield: 30 serves",
+      "shelf_life": "Shelf Life: 7 Days",
+      "ingredients": [
+        {
+          "text": "8 bunches Chives",
+          "heading": false
+        },
+        {
+          "text": "80g Raw Garlic",
+          "heading": false
+        },
+        {
+          "text": "Baby Spinach (Equal weight to Basil)",
+          "heading": false
+        },
+        {
+          "text": "500ml Neutral Oil",
+          "heading": false
+        }
+      ],
+      "method": [
+        "To make the herb oil, chop off and discard the heavier stalks, leaving you with about 150g of leaves. Blanch the leaves for 20 seconds in a large pot of boiling water, then remove and plunge immediately into a bowl of ice-cold water. Drain well, squeeze dry and roughly chop. Whiz the herbs in a blender with the oils, Strain through filter. Bag into a piping bag & hang until water separates. Make a small cut at the bottom of the bag, drain the water, pinch to stop the oil from coming out."
+      ],
+      "image": "",
+      "slug": "chive-oil"
+    },
+    {
+      "id": "oyster-mignonette",
+      "title": "OYSTER MIGNONETTE",
+      "chapter": 3,
+      "page": 37,
+      "yield": "Yield: 50 serves",
+      "shelf_life": "Shelf Life: 30 days",
+      "ingredients": [
+        {
+          "text": "450g Golden Shallots",
+          "heading": false
+        },
+        {
+          "text": "1000ml White Balsamic Vinegar",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Peel the shallots and fine dice (brunoise), pour white balsamic over, stir and bottle."
+      ],
+      "image": "",
+      "slug": "oyster-mignonette"
+    },
+    {
+      "id": "golden-shallot-dressing",
+      "title": "GOLDEN SHALLOT DRESSING",
+      "chapter": 3,
+      "page": 38,
+      "yield": "Yield: 20 serves",
+      "shelf_life": "Shelf Life: 30 days",
+      "ingredients": [
+        {
+          "text": "6 Golden Shallots",
+          "heading": false
+        },
+        {
+          "text": "300ml Sherry Vinegar",
+          "heading": false
+        },
+        {
+          "text": "200g Brown Sugar",
+          "heading": false
+        },
+        {
+          "text": "1L Olive Oil",
+          "heading": false
+        }
+      ],
+      "method": [
+        "place everything in a jug and blend it till the sugar is dissolved"
+      ],
+      "image": "",
+      "slug": "golden-shallot-dressing"
+    },
+    {
+      "id": "vincotto-dressing",
+      "title": "VINCOTTO DRESSING",
+      "chapter": 3,
+      "page": 38,
+      "yield": "Yield: 40 serves",
+      "shelf_life": "Shelf Life: 60 days",
+      "ingredients": [
+        {
+          "text": "750ml Vincotto",
+          "heading": false
+        },
+        {
+          "text": "250ml Truffle Oil",
+          "heading": false
+        },
+        {
+          "text": "400ml Sherry Vinegar",
+          "heading": false
+        },
+        {
+          "text": "200ml Olive Oil",
+          "heading": false
+        },
+        {
+          "text": "300ml Brown Sugar",
+          "heading": false
+        }
+      ],
+      "method": [
+        "place everything in a jug and blend it till the sugar is dissolved"
+      ],
+      "image": "",
+      "slug": "vincotto-dressing",
+      "dish": [
+        "Local Heirloom Tomato Salad"
+      ]
+    },
+    {
+      "id": "chardonnay-vinaigrette",
+      "title": "CHARDONNAY VINAIGRETTE",
+      "chapter": 3,
+      "page": 39,
+      "yield": "Yield: 50 serves",
+      "shelf_life": "Shelf Life: 15 days",
+      "ingredients": [
+        {
+          "text": "1.25L Olive Oil",
+          "heading": false
+        },
+        {
+          "text": "1 Cup Chardonnay Vinegar",
+          "heading": false
+        },
+        {
+          "text": "1 Cup Dijon Mustard",
+          "heading": false
+        },
+        {
+          "text": "1/3 Cup Brown Sugar",
+          "heading": false
+        },
+        {
+          "text": "3 Tablespoons Kosher Salt",
+          "heading": false
+        },
+        {
+          "text": "50g Fine Chopped Tarragon",
+          "heading": false
+        },
+        {
+          "text": "1/2 Lemon Juiced",
+          "heading": false
+        },
+        {
+          "text": "½ Cup Onion Juice (Blend Peeled Brown Onion With A Dash Water",
+          "heading": false
+        }
+      ],
+      "method": [
+        "place everything in a jug and blend it till the sugar is dissolved"
+      ],
+      "image": "",
+      "slug": "chardonnay-vinaigrette"
+    },
+    {
+      "id": "nduja-dressing",
+      "title": "‘NDUJA DRESSING",
+      "chapter": 3,
+      "page": 39,
+      "yield": "Yield: 40 serves",
+      "shelf_life": "Shelf Life: 30 days",
+      "ingredients": [
+        {
+          "text": "2kg Nduja",
+          "heading": false
+        },
+        {
+          "text": "1L White Balsamic Vinegar",
+          "heading": false
+        },
+        {
+          "text": "1L Water",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Place everything in a pot on low-medium heat and stir until combined. Do not burn the nduja."
+      ],
+      "image": "",
+      "slug": "nduja-dressing"
+    },
+    {
+      "id": "jalapeno-coriander-dressing",
+      "title": "JALAPENO & CORIANDER DRESSING",
+      "chapter": 3,
+      "page": 40,
+      "yield": "Yield 20 serves",
+      "shelf_life": "Shelf Life: 10 days",
+      "ingredients": [
+        {
+          "text": "4 Jalapenos, Halved",
+          "heading": false
+        },
+        {
+          "text": "2 Cups Loosely Packed Coriander, Stems Removed",
+          "heading": false
+        },
+        {
+          "text": "1/2 Cup Greek Yoghurt",
+          "heading": false
+        },
+        {
+          "text": "2 Cloves Garlic",
+          "heading": false
+        },
+        {
+          "text": "Juice Of 1 Lime",
+          "heading": false
+        },
+        {
+          "text": "Pinch Of Salt",
+          "heading": false
+        },
+        {
+          "text": "1/2 Cup Olive Oil",
+          "heading": false
+        },
+        {
+          "text": "1 Tablespoon Apple Cider Vinegar",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Combine jalapenos, cilantro, sour cream, garlic, lime juice and salt in the bowl of a food processor. With the motor running, add olive oil and vinegar in a slow stream until emulsified."
+      ],
+      "image": "",
+      "slug": "jalapeno-coriander-dressing"
+    },
+    {
+      "id": "orange-ginger-dressing",
+      "title": "ORANGE & GINGER DRESSING",
+      "chapter": 3,
+      "page": 40,
+      "yield": "Yield: 30 serves",
+      "shelf_life": "Shelf Life: 30 days",
+      "ingredients": [
+        {
+          "text": "2 Cups Orange Juice",
+          "heading": false
+        },
+        {
+          "text": "1 Whole Rind Orange",
+          "heading": false
+        },
+        {
+          "text": "4 Large Red Chilli Seeds Removed",
+          "heading": false
+        },
+        {
+          "text": "1 Knob Ginger",
+          "heading": false
+        },
+        {
+          "text": ". Cup Apple Cider Vinegar",
+          "heading": false
+        },
+        {
+          "text": "2 Tablespoons Brown Sugar",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Finely dice orange rind, ginger & red chili & combine in a pot with the orange juice, apple cider vinegar, & brown sugar & reduce to half in the pan."
+      ],
+      "image": "",
+      "slug": "orange-ginger-dressing"
+    },
+    {
+      "id": "green-goddess-dressing",
+      "title": "GREEN GODDESS DRESSING",
+      "chapter": 3,
+      "page": 41,
+      "yield": "Yield: 20 serves",
+      "shelf_life": "Shelf Life: 10 days",
+      "ingredients": [
+        {
+          "text": "4 Bunch Flat-Leaf Parsley Leaves",
+          "heading": false
+        },
+        {
+          "text": "4 Bunch Mint Leaves",
+          "heading": false
+        },
+        {
+          "text": "1 Cup Lemon Juice",
+          "heading": false
+        },
+        {
+          "text": "4 Green Onions (Scallions), Chopped",
+          "heading": false
+        },
+        {
+          "text": "1 Cup Natural Greek-Style (Thick) Yoghurt",
+          "heading": false
+        },
+        {
+          "text": "Sea Salt And Cracked Black Pepper",
+          "heading": false
+        }
+      ],
+      "method": [
+        "To make the dressing, place the parsley, mint, lemon juice, onion, yoghurt, salt and pepper in a small food processor and process until smooth."
+      ],
+      "image": "",
+      "slug": "green-goddess-dressing"
+    },
+    {
+      "id": "nuoc-cham-dressing",
+      "title": "NUOC CHAM DRESSING",
+      "chapter": 3,
+      "page": 41,
+      "yield": "",
+      "shelf_life": "Shelf Life: 30 days",
+      "ingredients": [
+        {
+          "text": "450ml Fish Sauce",
+          "heading": false
+        },
+        {
+          "text": "450ml White Vinegar",
+          "heading": false
+        },
+        {
+          "text": "300g White Sugar",
+          "heading": false
+        },
+        {
+          "text": "20 Garlic Clove, Finely Chopped",
+          "heading": false
+        },
+        {
+          "text": "10 Birds Eye Chili, Finely Chopped",
+          "heading": false
+        },
+        {
+          "text": "5 Lime, Juiced",
+          "heading": false
+        },
+        {
+          "text": "400ml Water",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Combine the fish sauce, white vinegar, sugar and 60 ml water in a saucepan over a medium heat. Stir well and cook until just before boiling point is reached, then allow to cool. Stir in the garlic, chilli and lime juice, then serve. It will keep in the refrigerator for 1 week"
+      ],
+      "image": "",
+      "slug": "nuoc-cham-dressing"
+    },
+    {
+      "id": "maple-tahini-dressing",
+      "title": "MAPLE TAHINI DRESSING",
+      "chapter": 3,
+      "page": 42,
+      "yield": "Yield 40 serves",
+      "shelf_life": "Shelf Life: 10 days",
+      "ingredients": [
+        {
+          "text": "3 Banana Shallots - Diced",
+          "heading": false
+        },
+        {
+          "text": "6 Garlic - Diced",
+          "heading": false
+        },
+        {
+          "text": "100ml Olive Oil",
+          "heading": false
+        },
+        {
+          "text": "500g Tahini",
+          "heading": false
+        },
+        {
+          "text": "500ml Water",
+          "heading": false
+        },
+        {
+          "text": "100g Miso Paste",
+          "heading": false
+        },
+        {
+          "text": "200ml Maple Syrup",
+          "heading": false
+        },
+        {
+          "text": "100ml Sweet Sake",
+          "heading": false
+        },
+        {
+          "text": "50ml Mirin",
+          "heading": false
+        },
+        {
+          "text": "150ml Lemon Juice",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Dice & fry shallots & garlic in oil on low heat until soft and translucent. Add to the robocoupe with 1kg tahini, and half of the water. Blend until smooth. It will form a thick paste. Add remaining water slowly until whipped into a smooth cream. Add lemon, honey & salt and whip for a further 3 minutes until completely smooth."
+      ],
+      "image": "",
+      "slug": "maple-tahini-dressing"
+    },
+    {
+      "id": "south-asian-crudo-dressing",
+      "title": "SOUTH ASIAN CRUDO DRESSING",
+      "chapter": 3,
+      "page": 43,
+      "yield": "Yield: 15 serves",
+      "shelf_life": "Shelf Life: 20 days",
+      "ingredients": [
+        {
+          "text": "1.7L Coconut Milk",
+          "heading": false
+        },
+        {
+          "text": "420ml Fish Sauce",
+          "heading": false
+        },
+        {
+          "text": "350ml Mirin",
+          "heading": false
+        },
+        {
+          "text": "590ml Fresh Lime Juice",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Pour all ingredients into a 4x4 and blend with the small robo until combined. Transfer to a squeeze bottle and keep refrigerated at all times."
+      ],
+      "image": "",
+      "slug": "south-asian-crudo-dressing"
+    },
+    {
+      "id": "yoghurt-dressing",
+      "title": "YOGHURT DRESSING",
+      "chapter": 3,
+      "page": 43,
+      "yield": "Yield 50 serves",
+      "shelf_life": "Shelf Life: 7 days",
+      "ingredients": [
+        {
+          "text": "500ml Buttermilk",
+          "heading": false
+        },
+        {
+          "text": "150g Greek Yoghurt",
+          "heading": false
+        },
+        {
+          "text": "1 Banana Shallot Fine Dice",
+          "heading": false
+        },
+        {
+          "text": "8 Pieces Coriander Root, Cleaned And Fine Dice",
+          "heading": false
+        },
+        {
+          "text": "45ml Lime Juice",
+          "heading": false
+        },
+        {
+          "text": "30g Lime Zest",
+          "heading": false
+        },
+        {
+          "text": "3 Guindilla Peppers Fine Dice",
+          "heading": false
+        },
+        {
+          "text": "1g Cumin Powder",
+          "heading": false
+        },
+        {
+          "text": "1g Cayenne Powder",
+          "heading": false
+        },
+        {
+          "text": "3g Flake Salt To Taste",
+          "heading": false
+        },
+        {
+          "text": "75g Mt Zero Olive Oil",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Mix all ingredients in a bowl. Store in a squeeze bottle and serve"
+      ],
+      "image": "",
+      "slug": "yoghurt-dressing"
+    },
+    {
+      "id": "comeback-sauce",
+      "title": "COMEBACK SAUCE",
+      "chapter": 3,
+      "page": 44,
+      "yield": "",
+      "shelf_life": "Shelf Life: 60 days",
+      "ingredients": [
+        {
+          "text": "1.8L Hellman Mayo",
+          "heading": false
+        },
+        {
+          "text": "150ml Ketchup",
+          "heading": false
+        },
+        {
+          "text": "150g Horseradish Relish",
+          "heading": false
+        },
+        {
+          "text": "150g American Mustard",
+          "heading": false
+        },
+        {
+          "text": "150ml Apple Cider Vinegar",
+          "heading": false
+        },
+        {
+          "text": "5g Cayenne Pepper",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Pour all ingredients into a 4x4 and blend with the small robo until combined. Transfer to a squeeze bottle and keep refrigerated at all times."
+      ],
+      "image": "",
+      "slug": "comeback-sauce",
+      "dish": [
+        "Sweet & Sour Fried Chicken",
+        "Smash Patty Burger"
+      ]
+    },
+    {
+      "id": "cool-ranch-dressing",
+      "title": "COOL RANCH DRESSING",
+      "chapter": 3,
+      "page": 44,
+      "yield": "Yield: 20 serves",
+      "shelf_life": "Shelf Life: 7 days",
+      "ingredients": [
+        {
+          "text": "240g Mayonnaise",
+          "heading": false
+        },
+        {
+          "text": "240g Sour Cream",
+          "heading": false
+        },
+        {
+          "text": "120ml Buttermilk",
+          "heading": false
+        },
+        {
+          "text": "6 g Fresh Chives, finely chopped",
+          "heading": false
+        },
+        {
+          "text": "1 g Lemon Zest",
+          "heading": false
+        },
+        {
+          "text": "20ml Lemon Juice",
+          "heading": false
+        },
+        {
+          "text": "6g Garlic, Minced",
+          "heading": false
+        },
+        {
+          "text": "Salt and Pepper to taste",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Pour all ingredients into a 4x4 and blend with the small robo until combined. Transfer to a squeeze bottle and keep refrigerated at all times."
+      ],
+      "image": "",
+      "slug": "cool-ranch-dressing"
+    },
+    {
+      "id": "white-wine-butter-sauce",
+      "title": "WHITE WINE BUTTER SAUCE",
+      "chapter": 3,
+      "page": 45,
+      "yield": "Yield: 20 serves",
+      "shelf_life": "Shelf Life: 7 days",
+      "ingredients": [
+        {
+          "text": "2Yield 50 serves",
+          "heading": false
+        },
+        {
+          "text": "5 x shallots diced",
+          "heading": false
+        },
+        {
+          "text": "1L White Wine",
+          "heading": false
+        },
+        {
+          "text": "500g White Wine Vinegar",
+          "heading": false
+        },
+        {
+          "text": "1L Cream",
+          "heading": false
+        },
+        {
+          "text": "2kg Butter",
+          "heading": false
+        },
+        {
+          "text": "60g Salt",
+          "heading": false
+        },
+        {
+          "text": "30g White Pepper",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Method Add shallots, white wine, vinegar into a pot and cook on medium heat until reduced by ⅔ . Add cream, cook down by ½. Add salt, pepper, lemon juice & oil. Turn off the heat and add cold cubed butter and stir until emulsified. Run through a fine sieve and store for service."
+      ],
+      "image": "",
+      "slug": "white-wine-butter-sauce"
+    },
+    {
+      "id": "buttermilk-dressing",
+      "title": "BUTTERMILK DRESSING",
+      "chapter": 3,
+      "page": 46,
+      "yield": "Yield: 20 serves",
+      "shelf_life": "Shelf Life: 7 days",
+      "ingredients": [
+        {
+          "text": "260g mayonnaise",
+          "heading": false
+        },
+        {
+          "text": "260g sour cream",
+          "heading": false
+        },
+        {
+          "text": "130g buttermilk",
+          "heading": false
+        },
+        {
+          "text": "10g lemon zest",
+          "heading": false
+        },
+        {
+          "text": "40g lemon juice",
+          "heading": false
+        },
+        {
+          "text": "4 garlic clove, minced",
+          "heading": false
+        },
+        {
+          "text": "Salt and pepper to season (pinch each)",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Whisk together mayonnaise, sour cream, buttermilk, lemon zest, lemon juice, minced garlic, and salt and pepper to taste until smooth."
+      ],
+      "image": "",
+      "slug": "buttermilk-dressing"
+    },
+    {
+      "id": "quince-dressing",
+      "title": "QUINCE DRESSING",
+      "chapter": 3,
+      "page": 46,
+      "yield": "Yield: 40 serves",
+      "shelf_life": "Shelf Life: 60 days",
+      "ingredients": [
+        {
+          "text": "200g Carlitas Quince Paste",
+          "heading": false
+        },
+        {
+          "text": "400ml ACV Vinegar",
+          "heading": false
+        },
+        {
+          "text": "400ml Olive Oil",
+          "heading": false
+        }
+      ],
+      "method": [
+        "place everything in a jug and blend it till the sugar is dissolved"
+      ],
+      "image": "",
+      "slug": "quince-dressing"
+    },
+    {
+      "id": "chermoula",
+      "title": "CHERMOULA",
+      "chapter": 3,
+      "page": 47,
+      "yield": "Yield: 20 serves",
+      "shelf_life": "Shelf Life: 1 week",
+      "ingredients": [
+        {
+          "text": "20g Cumin Seeds, Toasted",
+          "heading": false
+        },
+        {
+          "text": "10g Coriander Seeds, Toasted",
+          "heading": false
+        },
+        {
+          "text": "160g Coriander (Including Stems)",
+          "heading": false
+        },
+        {
+          "text": "160g Flat Leaf Parsley",
+          "heading": false
+        },
+        {
+          "text": "10g Fresh Ginger",
+          "heading": false
+        },
+        {
+          "text": "5g Fresh Thyme",
+          "heading": false
+        },
+        {
+          "text": "60g Garlic",
+          "heading": false
+        },
+        {
+          "text": "1.2L Tuscan Olive Oil",
+          "heading": false
+        },
+        {
+          "text": "20g Lemon Zest",
+          "heading": false
+        },
+        {
+          "text": "150ml Lemon Juice",
+          "heading": false
+        },
+        {
+          "text": "5g Aleppo Chilli Flakes",
+          "heading": false
+        },
+        {
+          "text": "15g Flaky Salt",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Toast seeds in a dry pan over medium heat until fragrant. Add all ingredients to a robocoupe and pulse until well combined, but not too smooth."
+      ],
+      "image": "",
+      "slug": "chermoula"
+    },
+    {
+      "id": "hot-honey-pomegranate-sauce",
+      "title": "HOT HONEY & POMEGRANATE SAUCE",
+      "chapter": 3,
+      "page": 47,
+      "yield": "Yield: 20 serves",
+      "shelf_life": "Shelf Life: 365 days",
+      "ingredients": [
+        {
+          "text": "250ml Hot Honey",
+          "heading": false
+        },
+        {
+          "text": "500g Pomegranate Molasses",
+          "heading": false
+        },
+        {
+          "text": "30g Smoked Paprika",
+          "heading": false
+        },
+        {
+          "text": "20g Sweet Paprika",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Whisk together all ingredients and store in a squeeze bottle."
+      ],
+      "image": "",
+      "slug": "hot-honey-pomegranate-sauce"
+    },
+    {
+      "id": "tomato-kasundi",
+      "title": "TOMATO KASUNDI",
+      "chapter": 3,
+      "page": 48,
+      "yield": "Yield: 20 serves",
+      "shelf_life": "",
+      "ingredients": [
+        {
+          "text": "1.4kg tomato puree",
+          "heading": false
+        },
+        {
+          "text": "15g salt",
+          "heading": false
+        },
+        {
+          "text": "27g garlic (about 9 cloves), minced",
+          "heading": false
+        },
+        {
+          "text": "110g fresh ginger, grated",
+          "heading": false
+        },
+        {
+          "text": "2g coriander seeds",
+          "heading": false
+        },
+        {
+          "text": "50g Thai chillies",
+          "heading": false
+        },
+        {
+          "text": "225g onions, diced",
+          "heading": false
+        },
+        {
+          "text": "340g red apples, peeled and diced",
+          "heading": false
+        },
+        {
+          "text": "375ml cider vinegar",
+          "heading": false
+        },
+        {
+          "text": "25g black mustard seeds",
+          "heading": false
+        },
+        {
+          "text": "45ml olive oil",
+          "heading": false
+        },
+        {
+          "text": "6g cumin seeds",
+          "heading": false
+        },
+        {
+          "text": "7g ground turmeric",
+          "heading": false
+        },
+        {
+          "text": "18g cumin seeds",
+          "heading": false
+        },
+        {
+          "text": "1g whole cloves",
+          "heading": false
+        },
+        {
+          "text": "3g chilli powder",
+          "heading": false
+        },
+        {
+          "text": "200g dark brown sugar",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Peel and chop the garlic and ginger, crush the coriander seeds, finely chop the chiles, dice the onions, and peel, core, and cut the apples into 1/3-inch cubes. Gently warm the vinegar in a small saucepan, add the mustard seeds, remove from the heat, and let infuse for 15 minutes. Place the garlic and ginger in a blender and pulse briefly. Add the mustard-vinegar infusion and blend to a smooth paste. Heat the oil in a large heavy-based saucepan over high heat for 1 minute. Remove briefly from the heat, then add the coriander, cumin, turmeric, cumin seeds, cloves, and chili powder. Cook over moderate heat for 20 seconds, then add the mustard-vinegar paste, chiles, and onions. Fry for 5–10 minutes. Drain the tomatoes and add to the pan with the apples and sugar. Lower the heat and simmer gently for 1 hour, stirring occasionally."
+      ],
+      "image": "",
+      "slug": "tomato-kasundi"
+    },
+    {
+      "id": "fennel-remoulade",
+      "title": "FENNEL REMOULADE",
+      "chapter": 4,
+      "page": 50,
+      "yield": "Yield: 100 serves",
+      "shelf_life": "Shelf Life: 30 days",
+      "ingredients": [
+        {
+          "text": "5kg Mayonnaise",
+          "heading": false
+        },
+        {
+          "text": "6 Whole Fennel",
+          "heading": false
+        },
+        {
+          "text": "4 Whole Red Onion",
+          "heading": false
+        },
+        {
+          "text": "600g Capers",
+          "heading": false
+        },
+        {
+          "text": "4 whole juices",
+          "heading": false
+        },
+        {
+          "text": "6 Chives bunch - finely chopped",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Add fennel, red onion & capers to the robocoupe and blitz until finely chopped. Strain off liquid, add juice from 4 lemons and fine chives to mayonnaise and mix thoroughly."
+      ],
+      "image": "",
+      "slug": "fennel-remoulade"
+    },
+    {
+      "id": "special-sauce",
+      "title": "SPECIAL SAUCE",
+      "chapter": 4,
+      "page": 50,
+      "yield": "Yield: 100 Serves",
+      "shelf_life": "Shelf Life: 60 days",
+      "ingredients": [
+        {
+          "text": "5.7L Hellmans Mayonnaise",
+          "heading": false
+        },
+        {
+          "text": "900ml Heinz Ketchup",
+          "heading": false
+        },
+        {
+          "text": "900ml Horseradish Cream",
+          "heading": false
+        },
+        {
+          "text": "900ml French’s Yellow Mustard",
+          "heading": false
+        },
+        {
+          "text": "900ml Apple Cider Vinegar",
+          "heading": false
+        },
+        {
+          "text": "75g Cayenne Pepper Powder",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Combine all ingredients into a mixing bowl & blend. Store in an airtight container"
+      ],
+      "image": "",
+      "slug": "special-sauce"
+    },
+    {
+      "id": "lemon-sauce",
+      "title": "LEMON SAUCE",
+      "chapter": 4,
+      "page": 51,
+      "yield": "Yield: 25 serves",
+      "shelf_life": "Shelf Life: 60 days",
+      "ingredients": [
+        {
+          "text": "600ml Coconut Milk",
+          "heading": false
+        },
+        {
+          "text": "500g Margarine",
+          "heading": false
+        },
+        {
+          "text": "500ml Lemon Juice",
+          "heading": false
+        },
+        {
+          "text": "50g marukome miso paste",
+          "heading": false
+        },
+        {
+          "text": "30g flaky salt",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Add all ingredients into the bar blender and combine until smooth. Store in an airtight container. Heat to serve."
+      ],
+      "image": "",
+      "slug": "lemon-sauce"
+    },
+    {
+      "id": "whipped-tahini-sauce",
+      "title": "WHIPPED TAHINI SAUCE",
+      "chapter": 4,
+      "page": 51,
+      "yield": "Yield: 20 serves",
+      "shelf_life": "Shelf Life: 10 days",
+      "ingredients": [
+        {
+          "text": "3 Banana Shallots - Diced",
+          "heading": false
+        },
+        {
+          "text": "6 Garlic - Diced",
+          "heading": false
+        },
+        {
+          "text": "100ml Olive Oil",
+          "heading": false
+        },
+        {
+          "text": "1kg Tahini",
+          "heading": false
+        },
+        {
+          "text": "500ml Water",
+          "heading": false
+        },
+        {
+          "text": "30g Flaky Salt",
+          "heading": false
+        },
+        {
+          "text": "80g Honey",
+          "heading": false
+        },
+        {
+          "text": "150ml Lemon Juice",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Dice & fry shallots & garlic in oil on low heat until soft and translucent. Add to the robocoupe with 1kg tahini, and half of the water. Blend until smooth. It will form a thick paste. Add remaining water slowly until whipped into a smooth cream. Add lemon, honey & salt and whip for a further 3 minutes until completely smooth."
+      ],
+      "image": "",
+      "slug": "whipped-tahini-sauce"
+    },
+    {
+      "id": "shellfish-cream",
+      "title": "SHELLFISH CREAM",
+      "chapter": 4,
+      "page": 52,
+      "yield": "Yield: 20 serves",
+      "shelf_life": "Shelf Life: 7 days",
+      "ingredients": [
+        {
+          "text": "2 tbsp Olive Oil",
+          "heading": false
+        },
+        {
+          "text": "8 Banana Shallot Diced",
+          "heading": false
+        },
+        {
+          "text": "1L White Wine",
+          "heading": false
+        },
+        {
+          "text": "1.5kg Green Prawn Shells inc. Head",
+          "heading": false
+        },
+        {
+          "text": "500ml Bay Lobster Stock",
+          "heading": false
+        },
+        {
+          "text": "250g Unsalted Butter Cubed",
+          "heading": false
+        },
+        {
+          "text": "300ml Thickened Cream",
+          "heading": false
+        },
+        {
+          "text": "200ml Lemon Juice",
+          "heading": false
+        },
+        {
+          "text": "Salt to Season",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Add shallots and prawn shells to the pot with oil. On medium heat cook until prawn shells are red. DO NOT BURN THE ONION. Add white wine to the pot once cooked and reduce by 2/3. Strain through an oil filter and return to the pot. Add cream and cubed butter and whisk until butter is emulsified. Add lemon juice and salt to taste."
+      ],
+      "image": "",
+      "slug": "shellfish-cream"
+    },
+    {
+      "id": "bread-sauce",
+      "title": "BREAD SAUCE",
+      "chapter": 4,
+      "page": 53,
+      "yield": "Yield: 20 serves",
+      "shelf_life": "Shelf Life: 10 days",
+      "ingredients": [
+        {
+          "text": "2 tbsp Olive Oil",
+          "heading": false
+        },
+        {
+          "text": "5 Garlic Minced",
+          "heading": false
+        },
+        {
+          "text": "1tsp Chilli Flakes",
+          "heading": false
+        },
+        {
+          "text": "8 Banana Shallots Diced",
+          "heading": false
+        },
+        {
+          "text": "1L White Wine",
+          "heading": false
+        },
+        {
+          "text": "500ml Thickened Cream",
+          "heading": false
+        },
+        {
+          "text": "500ml Full Cream Milk",
+          "heading": false
+        },
+        {
+          "text": "250g Unsalted Butter (cubed)",
+          "heading": false
+        },
+        {
+          "text": "250ml Lemon Juice",
+          "heading": false
+        },
+        {
+          "text": "5 Potato or Brioche Buns (untoasted)",
+          "heading": false
+        },
+        {
+          "text": "Salt to taste",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Add chilli, garlic & shallots into a pot on low heat and cook until translucent. Add white wine into a pot, increase the heat and simmer until reduced by 2/3rd. Add butter in portions and whisk until melted. Tear up bread and put it all into a blender. Add milk and blend on high until smooth. Return to the pot and add cream and lemon juice. Whisk constantly until thickened. Be careful not to burn the sauce. Season to taste. Store in a 3 Bain under the heat lamp."
+      ],
+      "image": "",
+      "slug": "bread-sauce"
+    },
+    {
+      "id": "really-f-ckin-hot-sauce",
+      "title": "REALLY F*CKIN HOT SAUCE",
+      "chapter": 4,
+      "page": 54,
+      "yield": "Yield: 100 serves",
+      "shelf_life": "Shelf Life: 90 days (refrigerate after opening)",
+      "ingredients": [
+        {
+          "text": "1kg Scorpion Chilli (4% salt to water ferment - 7 days)",
+          "heading": false
+        },
+        {
+          "text": "1L Water",
+          "heading": false
+        },
+        {
+          "text": "80g Flaky Sea Salt",
+          "heading": false
+        },
+        {
+          "text": "12L Mango Puree",
+          "heading": false
+        },
+        {
+          "text": "24L Mango Nectar",
+          "heading": false
+        },
+        {
+          "text": "3L Apple Cider Vinegar",
+          "heading": false
+        },
+        {
+          "text": "1L Ferment Funk Water",
+          "heading": false
+        },
+        {
+          "text": "40g Xanthan Gum",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Ferment the Chilli in 4% salt (40g) & water (1L) ratio for 7 days. Drain the chili & keep 500ml of the Ferment Water. Add chilli’s, AVC and xantham gum into a blender and blitz until smooth. Pour into a large pot, add remaining liquids and bring to a gentle boil of 83°c for 10 minutes to sterilise and kill fermentation. Pour into a Glass Bottles and seal with sealing lid tightly. Add to a deep hotel pan in the combi oven. Completely submerge in water. Turn the combi on to 140ºc and set the probe to 93ºc. When temp has hit 93ºc run the oven for 8 minutes. Open the door and allow to cool completely before removing and refrigerating."
+      ],
+      "image": "",
+      "slug": "really-f-ckin-hot-sauce"
+    },
+    {
+      "id": "harissa-sauce",
+      "title": "HARISSA SAUCE",
+      "chapter": 4,
+      "page": 55,
+      "yield": "Yield: 50 serves",
+      "shelf_life": "Shelf Life: 60 Days",
+      "ingredients": [
+        {
+          "text": "65g Cumin Seeds",
+          "heading": false
+        },
+        {
+          "text": "35g Coriander Seeds",
+          "heading": false
+        },
+        {
+          "text": "25g Caraway Seeds",
+          "heading": false
+        },
+        {
+          "text": "25g Smoked Paprika",
+          "heading": false
+        },
+        {
+          "text": "12 Guajillo Chilli Dried (Soak In Hot Water 30 Mins)",
+          "heading": false
+        },
+        {
+          "text": "5g Flaky Salt",
+          "heading": false
+        },
+        {
+          "text": "2 Roast Capsicum A6 Cans (Drained)",
+          "heading": false
+        },
+        {
+          "text": "125ml Lemon Juice",
+          "heading": false
+        },
+        {
+          "text": "8g Cayenne Pepper",
+          "heading": false
+        },
+        {
+          "text": "250ml Mt Zero Olive Oil",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Soak Guajillo chilli in hot water for 30 minutes. Toast the seeds in the pizza oven until aromatic and brown. Blitz in the blender until fine. Set aside to cool. Add paprika & cayenne to the spice mix. Add 1 tin Roast Capsicum to the spice mix and blitz until a smooth, fine paste. Empty out into a large mixing bowl. Drain the guajillo chilli, cut off the stem and add to the blender with the final tin of capsicum, salt, lemon and blitz. Add the oil in slowly from the top. Once mixed into a smooth liquid, combine both into the mixing bowl and mix until combined. Store in vacuum bags in the fridge."
+      ],
+      "image": "",
+      "slug": "harissa-sauce"
+    },
+    {
+      "id": "bearnaise-sauce",
+      "title": "BEARNAISE SAUCE",
+      "chapter": 4,
+      "page": 56,
+      "yield": "Yield: 15 serves",
+      "shelf_life": "Shelf Life: Four (4) Hours",
+      "ingredients": [
+        {
+          "text": "235ml White Wine Vinegar",
+          "heading": false
+        },
+        {
+          "text": "235ml Dry White Wine",
+          "heading": false
+        },
+        {
+          "text": "3.6g Fresh Cracked Black Pepper",
+          "heading": false
+        },
+        {
+          "text": "150g Banana Shallots (brunoise)",
+          "heading": false
+        },
+        {
+          "text": "12 Tarragon Whole Sprigs",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Combine all ingredients in a saucepan. Simmer gently over medium-low heat for 2 minutes. Remove from heat, and let stand for 5 minutes. Strain and press solids to extract liquid—yield approx. 150 mL infused vinegar. Cool for 5 minutes before use.",
+        "STEP 2 – BEARNAISE SAUCE",
+        "Ingredients:",
+        "325g Pasturised Egg Yolk (room temp) 9g Flaky Salt 150ml Infused Vinegar (recipe from Step 1)",
+        "1.35kg Unsalted Grass Fed Butter",
+        "7.5g Finely Chopped Tarragon",
+        "7.5g Finely Chopped Chervil 90ml Water (for thinning)",
+        "In the blender, combine egg yolks, infused vinegar, and salt. Blitz briefly to combine. On high, slowly drizzle in hot melted butter over about 60–90 seconds. After all butter is in, blitz for another 10 seconds. Add water 1 tbsp (15 mL) at a time, blitzing between each addition, until sauce is thick but pourable. Stir in chopped tarragon and chervil just before serving. NOTE: ONLY USE PASTEURIZED EGGS IN THE BEARNAISE SAUCE, PUT INTO A STAINLESS BOWL OVER BOILING WATER AND WHISK UNTIL THE MIXTURE IS BETWEEN 62°C AND 64°C. DO NOT BOIL!"
+      ],
+      "image": "",
+      "slug": "bearnaise-sauce"
+    },
+    {
+      "id": "tartare-sauce",
+      "title": "horseradish TARTARE SAUCE",
+      "chapter": 4,
+      "page": 57,
+      "yield": "Yield 50 serves",
+      "shelf_life": "Shelf Life: 30 Days",
+      "ingredients": [
+        {
+          "text": "1.65L Hellmans Mayonnaise",
+          "heading": false
+        },
+        {
+          "text": "500g Cornichons (finely chopped)",
+          "heading": false
+        },
+        {
+          "text": "250g Baby Capers (finely chopped)",
+          "heading": false
+        },
+        {
+          "text": "1 Tin Ortiz Anchovy Fillets (finely chopped)",
+          "heading": false
+        },
+        {
+          "text": "5 Medium Banana Shallots (finely chopped)",
+          "heading": false
+        },
+        {
+          "text": "2 Bunches Flat Leaf Parsley (finely chopped)",
+          "heading": false
+        },
+        {
+          "text": "125ml Lemon Juice",
+          "heading": false
+        },
+        {
+          "text": "120g Horseradish",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Mix all ingredients thoroughly with mayonnaise. Store in squeeze bottles."
+      ],
+      "image": "",
+      "slug": "tartare-sauce",
+      "dish": [
+        "Beer Battered Fish & Chips"
+      ]
+    },
+    {
+      "id": "whipped-tahini-sauce-2",
+      "title": "WHIPPED TAHINI SAUCE",
+      "chapter": 4,
+      "page": 57,
+      "yield": "Yield: 20 serves",
+      "shelf_life": "Shelf Life: 10 days",
+      "ingredients": [
+        {
+          "text": "3 Banana Shallots - Diced",
+          "heading": false
+        },
+        {
+          "text": "6 Garlic - Diced",
+          "heading": false
+        },
+        {
+          "text": "100ml Olive Oil",
+          "heading": false
+        },
+        {
+          "text": "1kg Tahini",
+          "heading": false
+        },
+        {
+          "text": "500ml Water",
+          "heading": false
+        },
+        {
+          "text": "30g Flaky Salt",
+          "heading": false
+        },
+        {
+          "text": "80g Honey",
+          "heading": false
+        },
+        {
+          "text": "150ml Lemon Juice",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Dice & fry shallots & garlic in oil on low heat until soft and translucent. Add to the robocoupe with 1kg tahini, and half of the water. Blend until smooth. It will form a thick paste. Add remaining water slowly until whipped into a smooth cream. Add lemon, honey & salt and whip for a further 3 minutes until completely smooth."
+      ],
+      "image": "",
+      "slug": "whipped-tahini-sauce-2"
+    },
+    {
+      "id": "macadamia-xo-sauce",
+      "title": "MACADAMIA XO SAUCE",
+      "chapter": 4,
+      "page": 58,
+      "yield": "Yield 50 serves",
+      "shelf_life": "Shelf Life: 30 Days",
+      "ingredients": [
+        {
+          "text": "1 whole packet Bottarga - MICROPLANE",
+          "heading": false
+        },
+        {
+          "text": "1 whole tin Anchovies (diced small)",
+          "heading": false
+        },
+        {
+          "text": "300ml Prawn Head Oil – see recipe above",
+          "heading": false
+        },
+        {
+          "text": "650ml Confit Garlic Oil - see recipe above",
+          "heading": false
+        },
+        {
+          "text": "200g Nduja",
+          "heading": false
+        },
+        {
+          "text": "600g Sopressa Salami – fine dice or blitz’d",
+          "heading": false
+        },
+        {
+          "text": "125g Chilli Flakes",
+          "heading": false
+        },
+        {
+          "text": "1kg Macadamia toasted, finely chopped",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Add sopressa, nduja, anchovies and prawn head oil into a deep pan or pot and cook on medium-low until the sopressa has softened, being careful not to burn the mix. Add the remaining ingredients into the pan and cook for a further 10 minutes until the macadamias are slightly softened. Allow to cool and store in an airtight container in the refrigerator."
+      ],
+      "image": "",
+      "slug": "macadamia-xo-sauce"
+    },
+    {
+      "id": "japanese-fermented-chilli-sauce",
+      "title": "JAPANESE FERMENTED CHILLI SAUCE",
+      "chapter": 4,
+      "page": 59,
+      "yield": "Yield 50 serves",
+      "shelf_life": "Shelf Life: 30 Days",
+      "ingredients": [
+        {
+          "text": "500g Fermented Chilli (see previous recipe)",
+          "heading": false
+        },
+        {
+          "text": "80g Garlic",
+          "heading": false
+        },
+        {
+          "text": "1.5kg Brown Sugar",
+          "heading": false
+        },
+        {
+          "text": "1L White Wine Vinegar",
+          "heading": false
+        },
+        {
+          "text": "90ml Black Vineger",
+          "heading": false
+        },
+        {
+          "text": "165ml Sake",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Blend fermented chilli, garlic, wines & sugar until thin. Add to a pot. Add sugar and sake, cook on low heat until sugar has dissolved and sauce has slightly thickened. Fine strain whilst hot through a chinois and store."
+      ],
+      "image": "",
+      "slug": "japanese-fermented-chilli-sauce"
+    },
+    {
+      "id": "whipped-tahini-sauce-3",
+      "title": "WHIPPED TAHINI SAUCE",
+      "chapter": 4,
+      "page": 59,
+      "yield": "Yield: 20 serves",
+      "shelf_life": "Shelf Life: 10 days",
+      "ingredients": [
+        {
+          "text": "3 Banana Shallots - Diced",
+          "heading": false
+        },
+        {
+          "text": "6 Garlic - Diced",
+          "heading": false
+        },
+        {
+          "text": "100ml Olive Oil",
+          "heading": false
+        },
+        {
+          "text": "1kg Tahini",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Dice & fry shallots & garlic in oil on low heat until soft and translucent. Add to the robocoupe with 1kg tahini, and half of the water. Blend until smooth. It will form a thick paste. Add remaining water slowly until whipped into a smooth cream. Add lemon, honey & salt and whip for a further 3 minutes until completely smooth."
+      ],
+      "image": "",
+      "slug": "whipped-tahini-sauce-3"
+    },
+    {
+      "id": "cloud-curd-sauce",
+      "title": "CLOUD CURD SAUCE",
+      "chapter": 4,
+      "page": 60,
+      "yield": "Yield 30 serves",
+      "shelf_life": "Shelf Life: 10 Days",
+      "ingredients": [
+        {
+          "text": "350g Sour Cream",
+          "heading": false
+        },
+        {
+          "text": "350g ODO Cheese",
+          "heading": false
+        },
+        {
+          "text": "90g Horseradish Cream",
+          "heading": false
+        },
+        {
+          "text": "45g Greek Yoghurt",
+          "heading": false
+        },
+        {
+          "text": "90g Dijon Mustard",
+          "heading": false
+        },
+        {
+          "text": "20g Kosher Salt",
+          "heading": false
+        },
+        {
+          "text": "150g Cornichons",
+          "heading": false
+        },
+        {
+          "text": "150g Shallots",
+          "heading": false
+        },
+        {
+          "text": "30g Garlic",
+          "heading": false
+        },
+        {
+          "text": "1 bunch finely chopped parsley",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Blitz shallots, cornichons & garlic into small pieces. In a large mixing bowl add all ingredients and mix to throughly combine. Taste to season and adjust if necessary."
+      ],
+      "image": "",
+      "slug": "cloud-curd-sauce"
+    },
+    {
+      "id": "mint-shallot-salata",
+      "title": "MINT & SHALLOT SALATA",
+      "chapter": 4,
+      "page": 60,
+      "yield": "Yield: 50 Serves",
+      "shelf_life": "Shelf Life: 30 days",
+      "ingredients": [
+        {
+          "text": "52 bunches fresh mint chopped fine",
+          "heading": false
+        },
+        {
+          "text": "4 banana shallots thinly sliced",
+          "heading": false
+        },
+        {
+          "text": "150ml chardonnay vinegar",
+          "heading": false
+        },
+        {
+          "text": "90g brown sugar",
+          "heading": false
+        },
+        {
+          "text": "r",
+          "heading": false
+        }
+      ],
+      "method": [
+        "In a bowl add your chardonnay vinegar and brown sugar and whisk until combined. Finely chop your fresh mint and shallots and add them to the bowl. Toss them in the sweetened chardonnay vinegar."
+      ],
+      "image": "",
+      "slug": "mint-shallot-salata"
+    },
+    {
+      "id": "parsley-gremolata",
+      "title": "PARSLEY GREMOLATA",
+      "chapter": 4,
+      "page": 61,
+      "yield": "Yield: 50 Serves",
+      "shelf_life": "Shelf Life: 30 days",
+      "ingredients": [
+        {
+          "text": "8 bunches fresh flat leaf parsley chopped fine",
+          "heading": false
+        },
+        {
+          "text": "8 cloves garlic microplane",
+          "heading": false
+        },
+        {
+          "text": "Zest of 4 lemons",
+          "heading": false
+        },
+        {
+          "text": "100g Baby Capers chopped fine",
+          "heading": false
+        },
+        {
+          "text": "250ml Neutral Oil (tuscan blend)",
+          "heading": false
+        },
+        {
+          "text": "15g Flaky Salt",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Mix all ingredients together in a large bowl. Adjust seasoning to taste. Keep refrigerated"
+      ],
+      "image": "",
+      "slug": "parsley-gremolata"
+    },
+    {
+      "id": "squid-ink-aioli",
+      "title": "SQUID INK AIOLI",
+      "chapter": 4,
+      "page": 61,
+      "yield": "Yield 20 serves",
+      "shelf_life": "Shelf Life: 30 Days",
+      "ingredients": [
+        {
+          "text": "1L Garlic Aioli",
+          "heading": false
+        },
+        {
+          "text": "100g Cuttlefish Ink",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Blitz all ingredients until thoroughly combined."
+      ],
+      "image": "",
+      "slug": "squid-ink-aioli"
+    },
+    {
+      "id": "dill-lemon-mayo",
+      "title": "DILL & LEMON MAYO",
+      "chapter": 4,
+      "page": 62,
+      "yield": "Yield 100 serves",
+      "shelf_life": "Shelf Life: 30 Days",
+      "ingredients": [
+        {
+          "text": "7.2L Mayonnaise",
+          "heading": false
+        },
+        {
+          "text": "450g Dried Dill",
+          "heading": false
+        },
+        {
+          "text": "1 Head Fine Diced Celery",
+          "heading": false
+        },
+        {
+          "text": "900ml Lemon Juice",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Whisk all ingredients until thoroughly combined."
+      ],
+      "image": "",
+      "slug": "dill-lemon-mayo"
+    },
+    {
+      "id": "garlicky-yoghurt",
+      "title": "GARLICKY YOGHURT",
+      "chapter": 4,
+      "page": 62,
+      "yield": "Yield 30 serves",
+      "shelf_life": "Shelf Life: 30 Days",
+      "ingredients": [
+        {
+          "text": "1 litre whole milk Greek yoghurt",
+          "heading": false
+        },
+        {
+          "text": "60ml tuscan olive oil",
+          "heading": false
+        },
+        {
+          "text": "60ml fresh lemon juice",
+          "heading": false
+        },
+        {
+          "text": "4 garlic cloves, grated",
+          "heading": false
+        },
+        {
+          "text": "2 tsp sea salt",
+          "heading": false
+        },
+        {
+          "text": "60ml water, plus extra as needed for consistency",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Whisk all ingredients until thoroughly combined."
+      ],
+      "image": "",
+      "slug": "garlicky-yoghurt"
+    },
+    {
+      "id": "mac-cheese-sauce",
+      "title": "MAC & CHEESE SAUCE",
+      "chapter": 4,
+      "page": 63,
+      "yield": "Yield 20 serves",
+      "shelf_life": "Shelf Life: 30 Days",
+      "ingredients": [
+        {
+          "text": "100g butter",
+          "heading": false
+        },
+        {
+          "text": "50g AP flour",
+          "heading": false
+        },
+        {
+          "text": "1.6L whole milk",
+          "heading": false
+        },
+        {
+          "text": "6g garlic powder",
+          "heading": false
+        },
+        {
+          "text": "6g mustard powder",
+          "heading": false
+        },
+        {
+          "text": "10g salt",
+          "heading": false
+        },
+        {
+          "text": "380g Cheddar cheese, shredded",
+          "heading": false
+        },
+        {
+          "text": "380g Gorgonzola cheese, shredded",
+          "heading": false
+        },
+        {
+          "text": "170g Dry Parmesan cheese",
+          "heading": false
+        },
+        {
+          "text": "330g mozzarella cheese, shredded",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Melt butter, add flour and brown. Add milk to make a roux. Add all remaining ingredients and cook until cheese has melted. Whilst hot, blend with a large roubostick until smooth. Allow to cool and portion into 130g portions."
+      ],
+      "image": "",
+      "slug": "mac-cheese-sauce"
+    },
+    {
+      "id": "chip-shop-curry-sauce",
+      "title": "CHIP SHOP CURRY SAUCE",
+      "chapter": 4,
+      "page": 64,
+      "yield": "Yield 50 serves",
+      "shelf_life": "Shelf Life: 30 Days",
+      "ingredients": [
+        {
+          "text": "500g Unsalted Butter",
+          "heading": false
+        },
+        {
+          "text": "2.5kg Diced White Onion",
+          "heading": false
+        },
+        {
+          "text": "1kg Fine Grated Carrot",
+          "heading": false
+        },
+        {
+          "text": "200g Minced Garlic",
+          "heading": false
+        },
+        {
+          "text": "1kg Sweet Red Apple Peeled & Diced",
+          "heading": false
+        },
+        {
+          "text": "80g Keens Curry Powder",
+          "heading": false
+        },
+        {
+          "text": "8g Chinese Five Spice",
+          "heading": false
+        },
+        {
+          "text": "2L Chicken Stock",
+          "heading": false
+        },
+        {
+          "text": "40ml Malt Vinegar",
+          "heading": false
+        },
+        {
+          "text": "40g Fine Salt",
+          "heading": false
+        },
+        {
+          "text": "10g White Pepper",
+          "heading": false
+        },
+        {
+          "text": "100g Corn Starch",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Melt the butter in a large pot on medium. Add onion & carrot. cook it down until it softens & begins to colour. Add the chopped apple and garlic. Fry for 3 minutes until the apple softens. Stir in the curry powder & Chinese five-spice and fry for 30 seconds. Pour in the chicken stock & stir in the vinegar, salt and pepper and simmer for 5 minutes. Turn off the heat and use a hand blender to blitz until smooth. In a small bowl combine the cornflour with 1 tbsp cold water. Stir this into the curry sauce then turn the heat back to medium. Simmer for 5 minutes until thickened. Check seasoning, adjust if needed, then serve up and enjoy."
+      ],
+      "image": "",
+      "slug": "chip-shop-curry-sauce"
+    },
+    {
+      "id": "diane-sauce",
+      "title": "DIANE SAUCE",
+      "chapter": 5,
+      "page": 66,
+      "yield": "Yield: 20 serves",
+      "shelf_life": "Shelf Life: 10 days",
+      "ingredients": [
+        {
+          "text": "1L Veal Stock",
+          "heading": false
+        },
+        {
+          "text": "400ml Knorr Gravy mix",
+          "heading": false
+        },
+        {
+          "text": "100ml Fresh Cream",
+          "heading": false
+        },
+        {
+          "text": "100ml Worcestershire Sauce",
+          "heading": false
+        },
+        {
+          "text": "5 tablespoon Garlic, Minced",
+          "heading": false
+        },
+        {
+          "text": "1 Whole Brown, Diced",
+          "heading": false
+        },
+        {
+          "text": "100ml Red Wine",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Brown onion, garlic until golden. Add red wine reduce by 1/2. Add gravy mix to thicken. Add Worcestershire. Bring to boil reduce by 1/4. Add cream. Stir until thickened"
+      ],
+      "image": "",
+      "slug": "diane-sauce"
+    },
+    {
+      "id": "beef-jus",
+      "title": "BEEF JUS",
+      "chapter": 5,
+      "page": 67,
+      "yield": "Yield: 50 serves",
+      "shelf_life": "Shelf Life: 20 days",
+      "ingredients": [
+        {
+          "text": "5L Bone Roasters Red Wine Jus",
+          "heading": false
+        },
+        {
+          "text": "12 Banana Shallots (rough chopped)",
+          "heading": false
+        },
+        {
+          "text": "2L Red Wine",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Sweat the shallots on a medium heat being careful not to colour. Once translucent, add the beef stock & red wine and cook on high until it has reduced by 2/3. Fine strain through a chinos and store in the refrigerator."
+      ],
+      "image": "",
+      "slug": "beef-jus",
+      "dish": [
+        "Southern Ranges Steak Frites",
+        "Pure Prime 300g Striploin"
+      ]
+    },
+    {
+      "id": "mushroom-sauce",
+      "title": "MUSHROOM SAUCE",
+      "chapter": 5,
+      "page": 67,
+      "yield": "",
+      "shelf_life": "Shelf Life: 30 days",
+      "ingredients": [
+        {
+          "text": "1L Veal Stock",
+          "heading": false
+        },
+        {
+          "text": "200ml Knorr Gravy mix",
+          "heading": false
+        },
+        {
+          "text": "100ml Fresh Cream",
+          "heading": false
+        },
+        {
+          "text": "500g Button Mushroom, Sliced",
+          "heading": false
+        },
+        {
+          "text": "1 tablespoon Garlic, Minced",
+          "heading": false
+        },
+        {
+          "text": "1 Whole Brown, Diced",
+          "heading": false
+        },
+        {
+          "text": "100ml Red Wine",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Brown onion, garlic & button mushrooms until golden. Add red wine, reduce by 1/2. Add gravy mix to thicken. Reduce by 1/4. Add cream."
+      ],
+      "image": "",
+      "slug": "mushroom-sauce"
+    },
+    {
+      "id": "chicken-jus",
+      "title": "CHICKEN JUS",
+      "chapter": 5,
+      "page": 68,
+      "yield": "",
+      "shelf_life": "Shelf Life: 30 days",
+      "ingredients": [
+        {
+          "text": "24 Chicken Frames",
+          "heading": false
+        },
+        {
+          "text": "8 X Large Onion Roughly Chopped",
+          "heading": false
+        },
+        {
+          "text": "5 X Large Carrot Roughly Chopped",
+          "heading": false
+        },
+        {
+          "text": "2 X Whole Celery Head Roughly Chopped",
+          "heading": false
+        },
+        {
+          "text": "200ml Apple Cider Vinegar",
+          "heading": false
+        },
+        {
+          "text": "100g Garlic Minced",
+          "heading": false
+        },
+        {
+          "text": "2 Bunch Flat Leaf Parsley Roughly Chopped",
+          "heading": false
+        },
+        {
+          "text": "1 Bunch Thyme",
+          "heading": false
+        },
+        {
+          "text": "100ml Lemon Juice",
+          "heading": false
+        },
+        {
+          "text": "1.5kg Butter",
+          "heading": false
+        },
+        {
+          "text": "Salt & Pepper",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Roast the chicken frames and vegetables in the oven until golden brown. Add to the large stockpot with herbs and apple cider vinegar and simmer on low heat for 10hrs. Strain through a chinois and return the pot to low heat. Add Butter, and lemon juice and cook until liquid has reduced by ⅓ . Season with Salt & Pepper. Set aside to cook and serve."
+      ],
+      "image": "",
+      "slug": "chicken-jus"
+    },
+    {
+      "id": "green-peppercorn-sauce",
+      "title": "GREEN PEPPERCORN SAUCE",
+      "chapter": 5,
+      "page": 69,
+      "yield": "Yield: 20 serves",
+      "shelf_life": "Shelf Life: 10 days",
+      "ingredients": [
+        {
+          "text": "1L Veal Stock",
+          "heading": false
+        },
+        {
+          "text": "200ml Knorr Gravy mix",
+          "heading": false
+        },
+        {
+          "text": "100ml Fresh Cream",
+          "heading": false
+        },
+        {
+          "text": "7tbsp Green Peppercorns",
+          "heading": false
+        },
+        {
+          "text": "1tbsp Garlic, Minced",
+          "heading": false
+        },
+        {
+          "text": "1 Whole Brown, Diced",
+          "heading": false
+        },
+        {
+          "text": "100ml Red Wine",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Brown onion, garlic until golden. Add peppercorns & red wine reduce by 1/2. Add gravy mix to thicken. Reduce by 1/4. Add cream."
+      ],
+      "image": "",
+      "slug": "green-peppercorn-sauce"
+    },
+    {
+      "id": "duck-jus",
+      "title": "DUCK JUS",
+      "chapter": 5,
+      "page": 70,
+      "yield": "Yield: 20 serves",
+      "shelf_life": "Shelf Life: 10 days",
+      "ingredients": [
+        {
+          "text": "20L Duck Stock",
+          "heading": false
+        },
+        {
+          "text": "7L Red Wine",
+          "heading": false
+        },
+        {
+          "text": "100ml Fresh Cream",
+          "heading": false
+        },
+        {
+          "text": "7tbsp Green Peppercorns",
+          "heading": false
+        },
+        {
+          "text": "1tbsp Garlic, Minced",
+          "heading": false
+        },
+        {
+          "text": "1 Whole Brown, Diced",
+          "heading": false
+        },
+        {
+          "text": "100ml Red Wine",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Brown onion, garlic until golden. Add peppercorns & red wine reduce by 1/2. Add gravy mix to thicken. Reduce by 1/4. Add cream."
+      ],
+      "image": "",
+      "slug": "duck-jus"
+    },
+    {
+      "id": "5-spice-seasoning",
+      "title": "5 SPICE SEASONING",
+      "chapter": 6,
+      "page": 72,
+      "yield": "Yield: 30 serves",
+      "shelf_life": "Shelf Life: 100 days",
+      "ingredients": [
+        {
+          "text": "200g Caster Sugar",
+          "heading": false
+        },
+        {
+          "text": "500g 5 Spice Powder",
+          "heading": false
+        },
+        {
+          "text": "400g Table Salt",
+          "heading": false
+        },
+        {
+          "text": "50g MSG",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Combine all ingredients into a mixing bowl and thoroughly combine."
+      ],
+      "image": "",
+      "slug": "5-spice-seasoning"
+    },
+    {
+      "id": "calamari-flour",
+      "title": "CALAMARI FLOUR",
+      "chapter": 6,
+      "page": 72,
+      "yield": "Yield 50 serves",
+      "shelf_life": "Shelf Life: 365 Days",
+      "ingredients": [
+        {
+          "text": "4kg Rice Flour",
+          "heading": false
+        },
+        {
+          "text": "2kg Potato Starch Flour",
+          "heading": false
+        },
+        {
+          "text": "375g Smoked Paprika",
+          "heading": false
+        },
+        {
+          "text": "125g Salt",
+          "heading": false
+        },
+        {
+          "text": "125g Yellow Mustard Powder",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Mix all ingredients thoroughly until evenly combined."
+      ],
+      "image": "",
+      "slug": "calamari-flour"
+    },
+    {
+      "id": "macadamia-dukkah",
+      "title": "MACADAMIA DUKKAH",
+      "chapter": 6,
+      "page": 73,
+      "yield": "Yield: 60 serves",
+      "shelf_life": "Shelf Life: 120 Days",
+      "ingredients": [
+        {
+          "text": "200g Macadamia",
+          "heading": false
+        },
+        {
+          "text": "160g Sumac",
+          "heading": false
+        },
+        {
+          "text": "150g White Sesame Seeds",
+          "heading": false
+        },
+        {
+          "text": "150g Black Sesame Seeds",
+          "heading": false
+        },
+        {
+          "text": "14g Fennel Seeds",
+          "heading": false
+        },
+        {
+          "text": "30g Cumin Seeds",
+          "heading": false
+        },
+        {
+          "text": "16g Dried Oregano",
+          "heading": false
+        },
+        {
+          "text": "40g Table Salt",
+          "heading": false
+        },
+        {
+          "text": "30g Caster Sugar",
+          "heading": false
+        },
+        {
+          "text": "40g Coriander Seeds",
+          "heading": false
+        },
+        {
+          "text": "10g Black Peppercorns (whole)",
+          "heading": false
+        },
+        {
+          "text": "10g Dried Thyme Leaves",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Toast black pepper, fennel, cumin & coriander seeds. Grind lightly, leaving it slightly coarse. Toast sesame seeds & macadamia seeds SEPARATELY. Mix all ingredients thoroughly."
+      ],
+      "image": "",
+      "slug": "macadamia-dukkah",
+      "dish": [
+        "Byron Bay Halloumi"
+      ]
+    },
+    {
+      "id": "fried-chicken-flour",
+      "title": "FRIED CHICKEN FLOUR",
+      "chapter": 6,
+      "page": 74,
+      "yield": "Yield: 100 serves",
+      "shelf_life": "Shelf Life: 365 Days",
+      "ingredients": [
+        {
+          "text": "3kg Rice Flour",
+          "heading": false
+        },
+        {
+          "text": "2kg Potato Starch",
+          "heading": false
+        },
+        {
+          "text": "180g Fine Salt",
+          "heading": false
+        },
+        {
+          "text": "75g Mustard Powder",
+          "heading": false
+        },
+        {
+          "text": "45g Oregano Powder",
+          "heading": false
+        },
+        {
+          "text": "75g Garlic Powder",
+          "heading": false
+        },
+        {
+          "text": "75g Onion Powder",
+          "heading": false
+        },
+        {
+          "text": "75g Smokey Paprika powder",
+          "heading": false
+        },
+        {
+          "text": "75g White Pepper Powder",
+          "heading": false
+        },
+        {
+          "text": "150g MSG",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Combine all ingredients in a Cambro and mix thoroughly."
+      ],
+      "image": "",
+      "slug": "fried-chicken-flour"
+    },
+    {
+      "id": "salt-vinegar-seasoning",
+      "title": "SALT & VINEGAR SEASONING",
+      "chapter": 6,
+      "page": 74,
+      "yield": "Yield: 100 serves",
+      "shelf_life": "Shelf Life: 365 days",
+      "ingredients": [
+        {
+          "text": "100g Vinegar Powder",
+          "heading": false
+        },
+        {
+          "text": "900g Table Salt",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Combine all ingredients into a mixing bowl and thoroughly combine."
+      ],
+      "image": "",
+      "slug": "salt-vinegar-seasoning"
+    },
+    {
+      "id": "crack-seasoning",
+      "title": "CRACK SEASONING",
+      "chapter": 6,
+      "page": 75,
+      "yield": "Yield: 100 serves",
+      "shelf_life": "Shelf Life: 365 Days",
+      "ingredients": [
+        {
+          "text": "40g Yellow Mustard Powder",
+          "heading": false
+        },
+        {
+          "text": "80g Garlic Powder",
+          "heading": false
+        },
+        {
+          "text": "80g Onion Powder",
+          "heading": false
+        },
+        {
+          "text": "40g Cayenne Pepper Powder",
+          "heading": false
+        },
+        {
+          "text": "80g White Pepper Powder",
+          "heading": false
+        },
+        {
+          "text": "80g Chilli Powder",
+          "heading": false
+        },
+        {
+          "text": "80g Smokey Paprika Powder",
+          "heading": false
+        },
+        {
+          "text": "120g Sweet Paprika Powder",
+          "heading": false
+        },
+        {
+          "text": "480g Granulated Sugar",
+          "heading": false
+        },
+        {
+          "text": "480g Fine Salt",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Combine all ingredients in cambro and mix thoroughly."
+      ],
+      "image": "",
+      "slug": "crack-seasoning"
+    },
+    {
+      "id": "local-porchetta",
+      "title": "LOCAL PORCHETTA",
+      "chapter": 7,
+      "page": 77,
+      "yield": "Yield: 15 serves",
+      "shelf_life": "Shelf life: 5 days",
+      "ingredients": [
+        {
+          "text": "1 Whole Pork Belly",
+          "heading": false
+        },
+        {
+          "text": "3tbsp Toasted Fennel",
+          "heading": false
+        },
+        {
+          "text": "2 Sprigs Rosemary",
+          "heading": false
+        },
+        {
+          "text": "4tbsp Thyme",
+          "heading": false
+        },
+        {
+          "text": "2tsp Chilli Flakes",
+          "heading": false
+        },
+        {
+          "text": "1tsp Cracked Black Pepper",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Method DO NOT SCORE THE SKIN!!! Split and roll the porchetta out into 3. Add the ingredients across the meat and roll back up into a tight log. Tie the porchetta in 1.5cm ties and put it in the dry-aging cabinet for 4 days to dry the skin out.",
+        "TO COOK",
+        "Oil and salt the skin with flaky salt. Cook at 220°C for 20 minutes —reduce the temperature to 175°C and put in the probe set to 75°C—making sure the probe is in the center of the roll in the thickest part of the meat. Cook until the internal temperature has reached 75°C. Remove from the oven and allow to rest for 30 minutes prior to cutting."
+      ],
+      "image": "",
+      "slug": "local-porchetta"
+    },
+    {
+      "id": "beef-rendang-step-one",
+      "title": "BEEF RENDANG - STEP ONE",
+      "chapter": 7,
+      "page": 78,
+      "yield": "Yield: 20 serves",
+      "shelf_life": "",
+      "ingredients": [
+        {
+          "text": "150g desiccated coconut",
+          "heading": false
+        },
+        {
+          "text": "150g ginger, finely chopped",
+          "heading": false
+        },
+        {
+          "text": "100g galangal, finely chopped",
+          "heading": false
+        },
+        {
+          "text": "10 lemongrass stalks (white part only), finely chopped",
+          "heading": false
+        },
+        {
+          "text": "40 long red chillies, coarsely chopped",
+          "heading": false
+        },
+        {
+          "text": "20 golden shallots, finely chopped",
+          "heading": false
+        },
+        {
+          "text": "25 garlic cloves",
+          "heading": false
+        },
+        {
+          "text": "150g turmeric, finely chopped",
+          "heading": false
+        },
+        {
+          "text": "500ml vegetable oil",
+          "heading": false
+        },
+        {
+          "text": "3.5kg beef oyster blade, cut into 5cm cubes",
+          "heading": false
+        },
+        {
+          "text": "2.125L (2,125 ml) coconut milk",
+          "heading": false
+        },
+        {
+          "text": "2.5L water",
+          "heading": false
+        },
+        {
+          "text": "3 tbsp caster sugar",
+          "heading": false
+        }
+      ],
+      "method": [
+        "PART ONE",
+        "Toast the coconut: Dry-roast 150g desiccated coconut in a large frying pan over medium heat until evenly golden (5-7 minutes), stirring occasionally. Set aside to cool slightly. Prepare the spice paste: Using a large mortar and pestle (or food processor with 100ml water if needed), pound 150g ginger, 100g galangal, and 10 stalks of lemongrass to a smooth paste. Add 40 long red chillies, 30 golden shallots, 25 garlic cloves, and 150g turmeric. Pound to a coarse paste. Set aside. In a separate clean mortar and pestle, pound the toasted coconut until slightly glossy. Set aside. Cook the spice mixture: Heat 500ml vegetable oil in a large wok (or deep-sided frying pan) over medium-high heat. Add the spice paste and stir often until aromatic (about 5 minutes). Brown the beef: Add 3.5kg beef oyster blade and stir occasionally until well browned (5-7 minutes).",
+        "SEE NEXT PAGE"
+      ],
+      "image": "",
+      "slug": "beef-rendang-step-one"
+    },
+    {
+      "id": "beef-rendang-step-two",
+      "title": "BEEF RENDANG - STEP TWO",
+      "chapter": 7,
+      "page": 79,
+      "yield": "",
+      "shelf_life": "Shelf Life: 7 days",
+      "ingredients": [],
+      "method": [
+        "PART TWO",
+        "Simmer the curry: Add the toasted coconut and cook for 1 minute. Pour in 2.125 litres coconut milk, 3 tbsp caster sugar, and 2.5 litres water. Bring to a boil, stirring continuously to prevent curdling. Slow cook: Reduce heat to low, cover, and simmer, stirring occasionally, until the meat is tender (about 2 hours). Thicken the sauce: Remove the beef with a slotted spoon and set aside. Stir the sauce over medium-high heat until very thick (20- 30 minutes). Finish & serve: Return the beef to the wok, stir gently, and season to taste with salt. Serve with steamed long-grain rice and steamed Asian greens."
+      ],
+      "image": "",
+      "slug": "beef-rendang-step-two"
+    },
+    {
+      "id": "nbh-spicy-pastrami",
+      "title": "NBH SPICY PASTRAMI",
+      "chapter": 7,
+      "page": 80,
+      "yield": "Yield: 30 serves",
+      "shelf_life": "",
+      "ingredients": [
+        {
+          "text": "Step 1 - Cooking",
+          "heading": true
+        },
+        {
+          "text": "3.75 Kilograms Beef Brisket",
+          "heading": false
+        },
+        {
+          "text": "950ml Soy Sauce",
+          "heading": false
+        },
+        {
+          "text": "5.6L Water",
+          "heading": false
+        },
+        {
+          "text": "450g White Sugar",
+          "heading": false
+        },
+        {
+          "text": "950ml Shaoxing Rice Wine",
+          "heading": false
+        },
+        {
+          "text": "75g Fresh Ginger - Sliced",
+          "heading": false
+        },
+        {
+          "text": "115g Garlic - Minced",
+          "heading": false
+        },
+        {
+          "text": "4 Spring Onion - Whites Only",
+          "heading": false
+        },
+        {
+          "text": "4 Cinnamon Stick - Whole",
+          "heading": false
+        },
+        {
+          "text": "8 Star Anise - whole",
+          "heading": false
+        },
+        {
+          "text": "35g Sichuan Pepper",
+          "heading": false
+        },
+        {
+          "text": "Step 2 - Seasoning",
+          "heading": true
+        },
+        {
+          "text": "PASTRAMI SPICE MIX",
+          "heading": true
+        },
+        {
+          "text": "56g Coriander Seeds",
+          "heading": false
+        },
+        {
+          "text": "8 Star Anise",
+          "heading": false
+        },
+        {
+          "text": "115g Garlic Clove - Minced",
+          "heading": false
+        },
+        {
+          "text": "170g Black Peppercorns",
+          "heading": false
+        },
+        {
+          "text": "56g White Peppercorns",
+          "heading": false
+        },
+        {
+          "text": "115g Schihuan Peppercorns",
+          "heading": false
+        },
+        {
+          "text": "150g Chilli Flakes",
+          "heading": false
+        },
+        {
+          "text": "55g Smoked Paprika",
+          "heading": false
+        },
+        {
+          "text": "445g Brown Sugar - Firmly Packed",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Soak the brisket in water for 24 hours, changing the water 3 times. Drain and pat the meat dry. Preheat the oven to 150°C. Place the brisket in a deep roasting tin along with the rest of the ingredients. Cover and cook in the oven for 2 hours. Reduce the heat to 110°C and cook for a further 4 hours, or until soft and giving When prodded with a chopstick. Check the meat every so often and add more water to the tin if the cooking liquid is evaporating. To make the pastrami spice mix, In a pan, place the coriander, star anise, cloves and all the peppercorns and roast them for 1-2 minutes or until fragrant. Remove the pan from the oven and leave to cool. Use the spice grinder to finely grind the spices. Mix in the rest of the spice mix ingredients. Set aside. After 4 hours, remove the brisket from its liquid, pat it dry and coat liberally with the spice mix. Place the pastrami between two trays and weigh down the top tray with Some tins of food or a cast-iron pan. leave to cool overnight in the refrigerator."
+      ],
+      "image": "",
+      "slug": "nbh-spicy-pastrami"
+    },
+    {
+      "id": "lebanese-lamb-skewer",
+      "title": "LEBANESE LAMB SKEWER",
+      "chapter": 7,
+      "page": 81,
+      "yield": "Yield: 15 serves",
+      "shelf_life": "",
+      "ingredients": [
+        {
+          "text": "1.5kg Lamb Shoulder deboned",
+          "heading": false
+        },
+        {
+          "text": "200ml Olive Oil",
+          "heading": false
+        },
+        {
+          "text": "5 garlic cloves finely chopped",
+          "heading": false
+        },
+        {
+          "text": "Fresh Thyme",
+          "heading": false
+        },
+        {
+          "text": "1.5tsp Paprika",
+          "heading": false
+        },
+        {
+          "text": "1tsp Cumin",
+          "heading": false
+        },
+        {
+          "text": "1tsp Sumac",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Method Semi-Freeze the lamb shoulder for 3hrs. Run the shoulder through the meat slicer and cut .5mm thick slices. Cut slices into squares and skewer to 150g weight. Put the skewers into a hotel pan and cover with your garlic oil, paprika, thyme and sumac. Allow 5hrs to marinate or even better overnight! Cook your skewers in a ripping hot pan or on your griddle top BBQ. Cook your lamb until medium rare and allow to rest for 5 minutes. Spread your hummus onto the plate, press into the centre to create a divot for your sauce to sit. Stack your lamb skewers up and cover with the mint & shallot salata, fried chickpeas and flaky salt to season."
+      ],
+      "image": "",
+      "slug": "lebanese-lamb-skewer"
+    },
+    {
+      "id": "charred-octopus",
+      "title": "CHARRED OCTOPUS",
+      "chapter": 7,
+      "page": 82,
+      "yield": "Yield: 40 serves",
+      "shelf_life": "Shelf Life: 12 Days",
+      "ingredients": [
+        {
+          "text": "6kg XL Fremantle Octopus Hands",
+          "heading": false
+        },
+        {
+          "text": "6 Oranges Quartered",
+          "heading": false
+        },
+        {
+          "text": "3 Limes Quartered",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Method Bring a large pot of water up to the boil and add the oranges, limes & octopus into the put. Cook for 40 minutes on a rolling boil. At 40 minutes, turn off the heat and allow the octopus to cool to room temp in the same water. Once cooled, skewer through the middle of the tentacle to allow it to set straight in the fridge overnight. The following morning, remove the skewer, and cut into bite sized pieces."
+      ],
+      "image": "",
+      "slug": "charred-octopus"
+    },
+    {
+      "id": "braised-beef-cheeks",
+      "title": "BRAISED BEEF CHEEKS",
+      "chapter": 7,
+      "page": 83,
+      "yield": "Yield: 30 serves",
+      "shelf_life": "Shelf Life: 45 Days",
+      "ingredients": [
+        {
+          "text": "Step 1 - Smoking",
+          "heading": true
+        },
+        {
+          "text": "100g Fine Salt",
+          "heading": false
+        },
+        {
+          "text": "400g Cracked Black Pepper",
+          "heading": false
+        },
+        {
+          "text": "ACV to Spritz",
+          "heading": false
+        },
+        {
+          "text": "STEP ONE",
+          "heading": true
+        },
+        {
+          "text": "Step 2 - Seasoning",
+          "heading": true
+        },
+        {
+          "text": "225g Extra Virgin Olive Oil",
+          "heading": false
+        },
+        {
+          "text": "30 Beef Cheeks",
+          "heading": false
+        },
+        {
+          "text": "1.2kg Carrot, fine dice",
+          "heading": false
+        },
+        {
+          "text": "1.2kg White Onion, Fine dice",
+          "heading": false
+        },
+        {
+          "text": "800g Celery, fine dice",
+          "heading": false
+        },
+        {
+          "text": "120g Garlic, crushed",
+          "heading": false
+        },
+        {
+          "text": "525g Tomato Paste",
+          "heading": false
+        },
+        {
+          "text": "15g Bay Leaves",
+          "heading": false
+        },
+        {
+          "text": "2L Red Wine",
+          "heading": false
+        },
+        {
+          "text": "3.75L Beef Stock",
+          "heading": false
+        },
+        {
+          "text": "450g Sherry Vinegar",
+          "heading": false
+        },
+        {
+          "text": "Mix Salt & Pepper, Sprinkle over Beef Cheeks and put into the",
+          "heading": false
+        },
+        {
+          "text": "Traeger Smoker for 5hrs on 100ºc. Spritz occasionally with ACV",
+          "heading": false
+        },
+        {
+          "text": "(Apple Cider Vinegar). Remove the Cheeks after 5hrs.",
+          "heading": false
+        },
+        {
+          "text": "STEP TWO",
+          "heading": true
+        }
+      ],
+      "method": [
+        "Cut the onion, carrot & celery into your mirepoix. Cook on medium heat until softened. Do not burn or colour. This will take approx 40mins. Add garlic & tomato paste and cook for a further 5 minutes. Transfer to a large, deep bain and fill with beef cheeks and remaining ingredients. Cook for 6hrs on 110ºc. Remove from the heat and allow to cool. Portion each cheek into a vaccum bag with a ladle of liquid and vaccum seal. DO NOT VACCUM THE CHEEK HOT!!! IT WILL SQUASH"
+      ],
+      "image": "",
+      "slug": "braised-beef-cheeks"
+    },
+    {
+      "id": "creamy-polenta",
+      "title": "CREAMY POLENTA",
+      "chapter": 7,
+      "page": 84,
+      "yield": "Yield: 15 serves",
+      "shelf_life": "Shelf Life: 30 Days",
+      "ingredients": [
+        {
+          "text": "3.75L Milk",
+          "heading": false
+        },
+        {
+          "text": "8 Bay Leaves",
+          "heading": false
+        },
+        {
+          "text": "650g polenta",
+          "heading": false
+        },
+        {
+          "text": "500g Parmesan",
+          "heading": false
+        },
+        {
+          "text": "150g unsalted butter",
+          "heading": false
+        },
+        {
+          "text": "450g mascarpone",
+          "heading": false
+        },
+        {
+          "text": "1L milk (extra)",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Method Add all ingredients EXCLUDING BUTTER & MASCARPONE into a deep hotel pan and stir to combine throughly. Steam on 100ºc for 50mins. MAKE SURE TO STIR HALFWAY THROUGH. Add butter, marcarpone, parmesan and remaining 1L milk at the end and stir to combine. Allow to cool and portion into 350g vac sealed portions bags."
+      ],
+      "image": "",
+      "slug": "creamy-polenta"
+    },
+    {
+      "id": "ricotta-butter-beans",
+      "title": "RICOTTA BUTTER BEANS",
+      "chapter": 7,
+      "page": 85,
+      "yield": "Yield: 15 serves",
+      "shelf_life": "Shelf Life: 30 Days",
+      "ingredients": [
+        {
+          "text": "4 x A10 Butter Beans Can",
+          "heading": false
+        },
+        {
+          "text": "2L White Wine",
+          "heading": false
+        },
+        {
+          "text": "1kg White Onion, Diced",
+          "heading": false
+        },
+        {
+          "text": "1L Tomato Puree ",
+          "heading": false
+        },
+        {
+          "text": "1kg Unsalted Butter",
+          "heading": false
+        },
+        {
+          "text": "Salt & Pepper To Season",
+          "heading": false
+        },
+        {
+          "text": "100ml Olive Oil",
+          "heading": false
+        },
+        {
+          "text": "5 Bunches Flatleaf Parsley, fine chop",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Brown off the onion and garlic on medium heat with the 100ml olive oil. ",
+        "Add tomato & white wine and cook off the alcohol.  ",
+        "Add the beans and water and cook on a low temperature for   3hrs until thickened. Stir occasionally so the beans do not stick to the bottom and burn. ",
+        "Add butter & parsley and cook for a further 10 minutes until butter has melted. "
+      ],
+      "image": "",
+      "slug": "ricotta-butter-beans"
+    },
+    {
+      "id": "tiramasu-our-way",
+      "title": "TIRAMiSU OUR WAY",
+      "chapter": 8,
+      "page": 87,
+      "yield": "Yield: 30 serves",
+      "shelf_life": "Shelf Life: 8 Days",
+      "ingredients": [
+        {
+          "text": "Base",
+          "heading": false
+        },
+        {
+          "text": "45 Savoiardi Biscuits",
+          "heading": false
+        },
+        {
+          "text": "1.875kg Mascarpone",
+          "heading": false
+        },
+        {
+          "text": "937.5 g Crème Fraiche",
+          "heading": false
+        },
+        {
+          "text": "8 Egg Whites",
+          "heading": false
+        },
+        {
+          "text": "Zabaione",
+          "heading": false
+        },
+        {
+          "text": "8 egg yolks",
+          "heading": false
+        },
+        {
+          "text": "225g caster sugar",
+          "heading": false
+        },
+        {
+          "text": "93.75ml Marsala",
+          "heading": false
+        },
+        {
+          "text": "Coffee Syrup",
+          "heading": false
+        },
+        {
+          "text": "750ml Long-Black-Strength Coffee",
+          "heading": false
+        },
+        {
+          "text": "187.5g Raw Caster Sugar",
+          "heading": false
+        },
+        {
+          "text": "187.5ml Brandy",
+          "heading": false
+        },
+        {
+          "text": "93.75ml Amaretto",
+          "heading": false
+        },
+        {
+          "text": "For Dusting",
+          "heading": false
+        },
+        {
+          "text": "100g Dutch-process cocoa",
+          "heading": false
+        }
+      ],
+      "method": [
+        "1. For coffee syrup, stir coffee and sugar in a small saucepan over low heat until sugar dissolves (2-4 minutes). Add brandy and amaretto, stir to combine, then set aside to cool slightly (10-15 minutes).",
+        "2. Lay savoiardi on a deep tray, spoon over coffee syrup, and set aside until absorbed (5-10 minutes).",
+        "3. Meanwhile, for zabaione, whisk yolks, sugar, Marsala, and 1 tbsp water in a heatproof bowl over a saucepan of simmering water until pale and thick (2-4 minutes); set aside to cool.",
+        "4. Whisk mascarpone and crème fraîche to combine, then fold through zabaione.",
+        "5. Whisk egg whites in a separate bowl until soft peaks form, then fold through the mascarpone mixture.",
+        "6. Lay half the soaked savoiardi in a 25cm-diameter serving dish, spread half the mascarpone mixture over and dust with cocoa, then repeat. Refrigerate for flavours to develop (2-4 hours), then serve dusted with extra cocoa."
+      ],
+      "image": "",
+      "slug": "tiramasu-our-way",
+      "dish": []
+    },
+    {
+      "id": "sticky-date-step-one",
+      "title": "STICKY DATE PUDDING",
+      "chapter": 8,
+      "page": 88,
+      "yield": "Yield: 30 serves",
+      "shelf_life": "",
+      "ingredients": [
+        {
+          "text": "1100g Chopped Dates",
+          "heading": false
+        },
+        {
+          "text": "1500ml Guinness Beer",
+          "heading": false
+        },
+        {
+          "text": "330g Treacle",
+          "heading": false
+        },
+        {
+          "text": "84g Bi Carb",
+          "heading": false
+        },
+        {
+          "text": "435g Unsalted Butter",
+          "heading": false
+        },
+        {
+          "text": "1350g Dark Brown Sugar",
+          "heading": false
+        },
+        {
+          "text": "20 Whole Eggs",
+          "heading": false
+        },
+        {
+          "text": "STEP ONE",
+          "heading": true
+        },
+        {
+          "text": "1050g Plain Flour",
+          "heading": false
+        },
+        {
+          "text": "100g Bi Carb",
+          "heading": false
+        },
+        {
+          "text": "65g All Spice",
+          "heading": false
+        },
+        {
+          "text": "50g Ginger Powder",
+          "heading": false
+        },
+        {
+          "text": "330g Chopped Walnuts",
+          "heading": false
+        },
+        {
+          "text": "400ml Guinness Beer",
+          "heading": false
+        },
+        {
+          "text": "530g Caster Sugar",
+          "heading": false
+        },
+        {
+          "text": "STEP TWO",
+          "heading": true
+        },
+        {
+          "text": "935g Unsalted Butter",
+          "heading": false
+        },
+        {
+          "text": "1800g Brown Dark Sugar",
+          "heading": false
+        },
+        {
+          "text": "188g Treacle",
+          "heading": false
+        },
+        {
+          "text": "188g Golden Syrup",
+          "heading": false
+        },
+        {
+          "text": "38ml Vanilla Essence",
+          "heading": false
+        },
+        {
+          "text": "3L Double Cream",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Add 1100g dates, 1500ml guinness, 330g trecle, 84g bi carb into a pot and cook down to a jam consistency on low heat (approx 10mins). ",
+        "To make the Batter, combine 435g unsalted butter, 1350g dark brown sugar, in a robo and start the creaming process, add 20 whole eggs, one at a time. Once incorporated add 1050g plain flour,100g bi carb, 65g All Spice & 50g ginger.",
+        "When all incorporated, fold batter in a large bowl with date jam with 330g chopped walnuts. (dont chop them too big or they will sink to the bottom). Line 3 large hotel pan with greaseproof paper and bake in the oven for 50 min or until the poke stick is clean. Whilst cooking make the glaze in a large pot, reduce 400ml Guinness & 530g caster sugar until sticky and thick. ",
+        "When the cake comes out of the oven, pour the hot glaze over the cake and brush to soak in.",
+        "STEP TWO - TO MAKE THE SAUCE \nAdd Butter, Sugar, Treacle & Golden Syrup into a pan. Cook over high heat until sugar is melted and starts to bubble. \n\nAdd Vanilla Essence & cream, bring it up to the boil and take off the heat. Store in a squeeze bottle."
+      ],
+      "image": "",
+      "slug": "sticky-date-step-one"
+    },
+    {
+      "id": "chocolate-cremeux-page-one",
+      "title": "CHOCOLATE CREMEUX",
+      "chapter": 8,
+      "page": 90,
+      "yield": "Yield: 30 serves",
+      "shelf_life": "Shelf Life: 12 Days",
+      "ingredients": [
+        {
+          "text": "520mL Full-Fat milk",
+          "heading": false
+        },
+        {
+          "text": "520mL Heavy Cream",
+          "heading": false
+        },
+        {
+          "text": "11 Egg Yolks ",
+          "heading": false
+        },
+        {
+          "text": "110g Unsalted Butter",
+          "heading": false
+        },
+        {
+          "text": "215g Caster Sugar",
+          "heading": false
+        },
+        {
+          "text": "730g Chocolate Chopped",
+          "heading": false
+        },
+        {
+          "text": " 12g Vanilla Extract",
+          "heading": false
+        },
+        {
+          "text": " 1tsp Sea Salt",
+          "heading": false
+        }
+      ],
+      "method": [
+        "STEP ONE - CREME ANGLAISE\n\nIn a saucepan, add the milk & heavy cream. Heat over medium. Heat until the milk starts to steam. Make sure to regularly stir to prevent the milk from burning. In a medium bowl, place the egg yolks, sugar, salt, and vanilla.",
+        "Whisk very well until the egg yolks become very smooth and start to turn pale in color. Once heated, remove the milk from the stove and it’s ready to be added to the egg mixture.",
+        "Before adding all the milk to the eggs, they must be tempered. Carefully pour the hot milk mixture in a thin stream into the egg mixture, making sure to constantly whisk the egg mix as the milk is poured in.",
+        "When about half of the milk is added to the egg mix, the egg mixture will be warm enough and tempered. Whisk it once more to make sure all the egg yolks are mixed in well (while scraping down the sides of the bowl).",
+        "Pour this egg & milk mixture back into the saucepan with the remaining milk. Whisk well to combine.",
+        "Lower the heat on the stove to a medium low. Take the pan on and off the heat regularly so the custard doesn’t cook and thicken too quickly. Continue to stir with a spatula until the custard has thickened to the right consistency approx. 8mins making sure to scrape down the sides of the saucepan.",
+        "The custard is done when it is thick enough to coat the back of a spoon with a film of custard approx 82 – 85°C. Once the custard is cooked, remove it from the heat. ",
+        "STEP TWO - CHOCOLATE CREMEUX\n",
+        "Once the custard is cooked, pour the custard through a sieve into the bowl with the chocolate. Cover the bowl with plastic wrap or a lid for about 1 minute.",
+        "Uncover and stir the mixture with a spatula or whisk and mix the melted chocolate with the pastry cream. Stir until the chocolate has completely melted. Once the chocolate has melted add the butter and stir until completely melted. ",
+        "With a stick blender, blend the chocolate cremeux to emulsify until it is smooth and shiny.  ",
+        "Cover the cremeux with plastic wrap, making sure that the plastic wrap is in contact with the entire surface so as to prevent a skin from forming on top.",
+        "Transfer the chocolate cremeux to the fridge to completely chill, or until it reaches room temperature. Once at room temperature, pour piping bags and seal. "
+      ],
+      "image": "",
+      "slug": "chocolate-cremeux-page-one"
+    },
+    {
+      "id": "rum-caramel",
+      "title": "RUM CARAMEL",
+      "chapter": 8,
+      "page": 92,
+      "yield": "Yield: 30 serves",
+      "shelf_life": "Shelf Life: 150 Days",
+      "ingredients": [
+        {
+          "text": "1.30kg Caster Sugar",
+          "heading": false
+        },
+        {
+          "text": "800ml Water",
+          "heading": false
+        },
+        {
+          "text": "250ml Spiced Rum",
+          "heading": false
+        },
+        {
+          "text": "1600ml Cream",
+          "heading": false
+        },
+        {
+          "text": "1kg Unsalted Butter",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Add sugar into a pot with water. Cook down until dark brown. Add cream slowly and whisk. Add cubed butter and whisk until combined. Pour into a sheet pan and refrigerate. Once cool and solid, put into the robocoupe, add 200ml rum and whip to a smooth paste. Put into piping bags and refrigerate. Note - BAG will not freeze due to the alcohol content"
+      ],
+      "image": "",
+      "slug": "rum-caramel"
+    },
+    {
+      "id": "hot-honey-honeycomb",
+      "title": "HOT HONEY HONEYCOMB",
+      "chapter": 8,
+      "page": 93,
+      "yield": "Yield: 40 serves",
+      "shelf_life": "",
+      "ingredients": [
+        {
+          "text": "700g Caster Sugar",
+          "heading": false
+        },
+        {
+          "text": "300ml Hot Honey",
+          "heading": false
+        },
+        {
+          "text": "220ml Water",
+          "heading": false
+        },
+        {
+          "text": "2tsp baking soda",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Add sugar, water & hot honey to a pot, stir to dissolve the sugar. Bring up on medium heat moving the liquid around to stop burning in spots. If you get sugar on the sides of the pot, brush down with a pastry brush with cold water to stop burning. Using the stick thermometer heat the liquid to 150°c. Add 2 teaspoons of baking soda and whisk vigorously until combined. The honeycomb will triple in size. Turn the heat off and pour into a lined ½ hotel pan. Allow to cool at room temperature for a few hours. Break into pieces and store in an airtight container on the counter."
+      ],
+      "image": "",
+      "slug": "hot-honey-honeycomb"
+    },
+    {
+      "id": "raspberry-hazelnut-blondie",
+      "title": "RASPBERRY & HAZELNUT BLONDIE",
+      "chapter": 8,
+      "page": 94,
+      "yield": "Yield: 64 Serves",
+      "shelf_life": "",
+      "ingredients": [
+        {
+          "text": "1kg Unsalted Butter, Sliced Into Tablespoons",
+          "heading": false
+        },
+        {
+          "text": "250g Dry Milk Powder",
+          "heading": false
+        },
+        {
+          "text": "600g Good Quality Milk Chocolate",
+          "heading": false
+        },
+        {
+          "text": "100g Toasted Hazelnut Toasted Chopped",
+          "heading": false
+        },
+        {
+          "text": "85g Olive Oil",
+          "heading": false
+        },
+        {
+          "text": "12 Large Eggs, Room Temp",
+          "heading": false
+        },
+        {
+          "text": "400g Light Brown Sugar, Packed",
+          "heading": false
+        },
+        {
+          "text": "775g Powdered Sugar, Spooned And Levelled",
+          "heading": false
+        },
+        {
+          "text": "25g Vanilla Extract",
+          "heading": false
+        },
+        {
+          "text": "300g Gluten Free Flour, Spooned And Levelled",
+          "heading": false
+        },
+        {
+          "text": "6g Kosher Salt",
+          "heading": false
+        },
+        {
+          "text": "4 Punnets Fresh Raspberries (Fresh Not Frozen)",
+          "heading": false
+        },
+        {
+          "text": "6g Flaky Salt (Save To Sprinkle Over The Top Once Cooked)",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Preheat oven to 175ºC. In a large saucepan over medium heat, melt butter, whisking as it bubbles. When it foams, add milk powder and whisk for 30–60 seconds until it turns amber and smells nutty. Let it bubble 30 seconds more, then remove from heat. Stir in chopped chocolate and oil to melt. ",
+        "While cooling, whisk eggs and brown sugar in a large bowl for 90 seconds until sugar is fully dissolved (test between fingers). Whisk in powdered sugar until smooth, then add vanilla. ",
+        "Once the butter mixture is warm (not hot), whisk it into the egg mixture. Switch to a spatula and fold in flour and salt. If warm, let batter rest before adding chocolate chunks to prevent melting. ",
+        "Prep a bain marie dish: spray and line with parchment covering bottom and sides. Pour in batter, spread evenly, and top with chocolate chunks, raspberries & hazelnuts. Bake 24 minutes, then immediately slam pan on a hard surface for fudgier texture. ",
+        "Cool for 90 min at room temp or 1 hour in fridge. Sprinkle with 6g flaky salt, flip out onto a rack, remove parchment, flip upright, and store."
+      ],
+      "image": "",
+      "slug": "raspberry-hazelnut-blondie"
+    },
+    {
+      "id": "brown-butter-brownies",
+      "title": "BROWN BUTTER BROWNIES",
+      "chapter": 8,
+      "page": 95,
+      "yield": "Yield: 25 Serves",
+      "shelf_life": "Shelf Life: 10 Days",
+      "ingredients": [
+        {
+          "text": "880g unsalted butter, sliced into tablespoons",
+          "heading": false
+        },
+        {
+          "text": "152g dry milk powder*",
+          "heading": false
+        },
+        {
+          "text": "200g dutch process cocoa powder",
+          "heading": false
+        },
+        {
+          "text": "600g (or bittersweet chocolate), chopped",
+          "heading": false
+        },
+        {
+          "text": "85g olive oil",
+          "heading": false
+        },
+        {
+          "text": "12 large eggs, room temp",
+          "heading": false
+        },
+        {
+          "text": "400g light brown sugar, packed",
+          "heading": false
+        },
+        {
+          "text": "772g powdered sugar, spooned and leveled",
+          "heading": false
+        },
+        {
+          "text": "23g vanilla extract",
+          "heading": false
+        },
+        {
+          "text": "264g gluten free flour, spooned and leveled",
+          "heading": false
+        },
+        {
+          "text": "6g kosher salt",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Preheat the oven to 175ºc. Add the butter to a large saucepan and place over medium heat. Allow it to melt and then continue to whisk as it starts to bubble. Once it starts to foam up, add in the milk powder and quickly whisk. After about 30-60 seconds, it should start to darken into an amber colour and give off a nutty aroma. \n\n",
+        "Add in the cocoa powder and quickly whisk to combine. Allow the mixture to bubble for 30 seconds, then remove from heat and mix in the chopped chocolate (to melt) and oil. ",
+        "While the chocolate butter mixture cools, whisk together the eggs and brown sugar in a large mixing bowl. Vigorously whisk until the sugar is fully dissolved (about 90 seconds of fast whisking). Test to see if the sugar is dissolved by rubbing the mixture between two fingers. Stop whisking when you can no longer feel the sugar granules. ",
+        "Add in the powdered sugar and whisk until completely smooth. Mix in the vanilla."
+      ],
+      "image": "",
+      "slug": "brown-butter-brownies"
+    },
+    {
+      "id": "pizza-dough",
+      "title": "PIZZA DOUGH",
+      "chapter": 9,
+      "page": 98,
+      "yield": "",
+      "shelf_life": "Shelf Life: 6 Days",
+      "ingredients": [
+        {
+          "text": "32g Yeast",
+          "heading": false
+        },
+        {
+          "text": "15L + 2L Cold Water",
+          "heading": false
+        },
+        {
+          "text": "25kg 00 Pizza Flour",
+          "heading": false
+        },
+        {
+          "text": "300g Olive Oil",
+          "heading": false
+        },
+        {
+          "text": "800g Table Salt",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Split 3 jugs of water evenly. Melt yeast in one jug of water in a mixing bowl. Add the remaining 2 jugs of water once the yeast has dissolved. Set aside 2L of water for later. Add flour to the bowl and mix until the dough starts to form. Add all of the salt and the remaining 1L of water slowly. Once the dough has absorbed all of the water, add the oil slowly until combined. Check the dough temperature constantly, ensuring it stays between 23°C to 23.5°C. Stop the mixer when the dough is at the correct temperature and the oil is fully mixed in. Remove the dough from the mixer and cover it with cling wrap to prevent drying out for 24 hours. After 24 hours, cut the dough into 300g balls, roll them, and place them in a container for another 24 hours. Two hours before making pizza, take the dough out of the fridge to allow it to come to room temperature."
+      ],
+      "image": "",
+      "slug": "pizza-dough"
+    },
+    {
+      "id": "nbh-focaccia",
+      "title": "NBH FOCACCIA",
+      "chapter": 9,
+      "page": 99,
+      "yield": "Yield: 2 x 2.1kg Focaccia",
+      "shelf_life": "",
+      "ingredients": [
+        {
+          "text": "14.1g Yeast",
+          "heading": false
+        },
+        {
+          "text": "1.91L Cold Water (plus 255ml reserved separately)",
+          "heading": false
+        },
+        {
+          "text": "3.23kg Bakers Flour",
+          "heading": false
+        },
+        {
+          "text": "38g Olive Oil",
+          "heading": false
+        },
+        {
+          "text": "102g Table Salt",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Split the 1.91L water evenly into 3 jugs (approx. 637ml each). Dissolve the yeast in one jug of water in the mixing bowl. Add the remaining two jugs of water after the yeast has fully dissolved. Set aside the 255ml reserved water for later. Add the flour and mix until the dough begins to form. Add the salt, then slowly add the reserved water until fully absorbed. Gradually pour in the olive oil and continue mixing until well combined. Constantly check dough temperature; it should remain between 23°C–23.5°C. Stop mixing once temperature is correct and dough is fully combined. Remove dough, cover tightly with cling film, and rest for 24 hours. After resting, divide into 2 x 2.1kg dough balls, roll, and store in covered stainless bakers trays. Rest again for another 24 hours in the fridge. Remove from fridge 5 hours before cooking to come to room temperature. After 3 hours, stretch from the middle and up, allow the dough to stick together, turn ½ and repeat. top, and bake! Allow to rest for 2 hours, press with your fingers to the side of the tray, coat in generous oil on the top, season with your preferred toppings Pre-heat your oven to 220ºC. Spritz the top of the focaccia with water and cook for 20 minutes"
+      ],
+      "image": "",
+      "slug": "nbh-focaccia"
+    },
+    {
+      "id": "chinese-calamari-salt",
+      "title": "CHINESE CALAMARI SALT",
+      "chapter": 10,
+      "page": 101,
+      "yield": "Yield: 30 serves",
+      "shelf_life": "Shelf Life: 100 days",
+      "ingredients": [
+        {
+          "text": "200g Caster Sugar",
+          "heading": false
+        },
+        {
+          "text": "500g 5 Spice Powder",
+          "heading": false
+        },
+        {
+          "text": "400g Table Salt",
+          "heading": false
+        },
+        {
+          "text": "50g MSG",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Combine all ingredients into a mixing bowl and thoroughly combine."
+      ],
+      "image": "",
+      "slug": "chinese-calamari-salt"
+    },
+    {
+      "id": "confit-vegetables",
+      "title": "CONFIT VEGETABLES",
+      "chapter": 10,
+      "page": 101,
+      "yield": "",
+      "shelf_life": "Shelf Life: 30 days",
+      "ingredients": [
+        {
+          "text": "9 x Carrot",
+          "heading": false
+        },
+        {
+          "text": "1 x Bunch Celery",
+          "heading": false
+        },
+        {
+          "text": "6 x Brown Onions",
+          "heading": false
+        },
+        {
+          "text": "3 x Fennel",
+          "heading": false
+        },
+        {
+          "text": "100g Garlic",
+          "heading": false
+        },
+        {
+          "text": "6 x Fresh Red Chilli",
+          "heading": false
+        },
+        {
+          "text": "1L Olive Oil",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Blend all of the vegetables together and place into a Vac Bag. Seal & Steam overnight on 90ºc"
+      ],
+      "image": "",
+      "slug": "confit-vegetables"
+    },
+    {
+      "id": "chilli-crunch",
+      "title": "CHILLI CRUNCH",
+      "chapter": 10,
+      "page": 102,
+      "yield": "Yield: 50 serves",
+      "shelf_life": "Shelf Life: 60 days",
+      "ingredients": [
+        {
+          "text": "400g Dried Red Chillies (Seeds Removed)",
+          "heading": false
+        },
+        {
+          "text": "245g Fried Shallots",
+          "heading": false
+        },
+        {
+          "text": "180g Fried Garlic",
+          "heading": false
+        },
+        {
+          "text": "12 Whole Star Anise",
+          "heading": false
+        },
+        {
+          "text": "16 Cardamom Pods",
+          "heading": false
+        },
+        {
+          "text": "120g Fine Chopped Ginger",
+          "heading": false
+        },
+        {
+          "text": "120g Caster Sugar",
+          "heading": false
+        },
+        {
+          "text": "120g Chicken Bouillon",
+          "heading": false
+        },
+        {
+          "text": "130g Garlic Cloves Fine Sliced",
+          "heading": false
+        },
+        {
+          "text": "2.8l Vegetable Oil",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Put the dried chilli in the robocoupe and blitz to rough chop. Put the chopped chilli into a steam bain and shake to remove the seeds. Throw away the seeds. Put the dried chopped chilli, fried shallots, fried garlic, star anise, cardamom pods, ginger, sugar, salt and stock cubes. Set aside. In a large saucepan, place the sliced garlic and the oil. Cook on medium heat, allow the oil to heat up and start sizzling. Gently continue cooking the garlic for another 2-3 minutes or until the garlic is just golden. Turn the heat off and allow the oil to cool for 2-3 minutes. Then carefully pour the warm oil over the chilli mixture. Mix until well combined."
+      ],
+      "image": "",
+      "slug": "chilli-crunch"
+    },
+    {
+      "id": "open-skies-pineapple-brine",
+      "title": "OPEN SKIES PINEAPPLE BRINE",
+      "chapter": 10,
+      "page": 103,
+      "yield": "Yield: 25 serves",
+      "shelf_life": "Shelf Life: 300 days",
+      "ingredients": [
+        {
+          "text": "10L Water",
+          "heading": false
+        },
+        {
+          "text": "3kg Brown Sugar",
+          "heading": false
+        },
+        {
+          "text": "15 cardamon pods",
+          "heading": false
+        },
+        {
+          "text": "10 Star Anise",
+          "heading": false
+        },
+        {
+          "text": "6 Cinnamon Quills",
+          "heading": false
+        },
+        {
+          "text": "5 oranges quartered",
+          "heading": false
+        },
+        {
+          "text": "200g fine salt",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Add all ingredients into a large pot and bring up to the boil. Stir until sugar has dissolved. Allow liquid to cool before adding pineapple."
+      ],
+      "image": "",
+      "slug": "open-skies-pineapple-brine"
+    },
+    {
+      "id": "pickling-brine",
+      "title": "PICKLING BRINE",
+      "chapter": 10,
+      "page": 103,
+      "yield": "Yield: 100 serves",
+      "shelf_life": "Shelf Life: 300 Days",
+      "ingredients": [
+        {
+          "text": "5L Water",
+          "heading": false
+        },
+        {
+          "text": "5kg Caster Sugar",
+          "heading": false
+        },
+        {
+          "text": "5L Apple Cider Vinegar",
+          "heading": false
+        },
+        {
+          "text": "5g Cinnamon quill",
+          "heading": false
+        },
+        {
+          "text": "7g Star Anise",
+          "heading": false
+        },
+        {
+          "text": "3tbsp Fennel Seeds",
+          "heading": false
+        },
+        {
+          "text": "2tbsp Black Peppercorn",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Add all ingredients into a large pot and bring up to the boil. Stir until sugar has dissolved. Allow liquid to cool before adding cucumbers."
+      ],
+      "image": "",
+      "slug": "pickling-brine"
+    },
+    {
+      "id": "puffed-sourghum",
+      "title": "PUFFED SOURGHUM",
+      "chapter": 10,
+      "page": 104,
+      "yield": "Yield: 50 serves",
+      "shelf_life": "Shelf Life: 60 days",
+      "ingredients": [
+        {
+          "text": "1kg Red Sorghum",
+          "heading": false
+        },
+        {
+          "text": "4L Tuscan Oil",
+          "heading": false
+        },
+        {
+          "text": "50g Sweet Paprika",
+          "heading": false
+        },
+        {
+          "text": "20g Onion Powder",
+          "heading": false
+        },
+        {
+          "text": "20g Garlic Powder",
+          "heading": false
+        },
+        {
+          "text": "10g Fine Salt",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Heat oil on the stove top to 190ºc, put the sorghum in a sieve in small portions and drop into the oil and cook until puffed. Drain onto paper towels to soak excess oil off. Once all cooked, let cool, pour into a large bowl and sprinkle with the seasoning. Shake to combine."
+      ],
+      "image": "",
+      "slug": "puffed-sourghum"
+    },
+    {
+      "id": "new-recipe",
+      "slug": "ballina-pipi-butter",
+      "title": "ballina pipi butter",
+      "chapter": 2,
+      "page": null,
+      "yield": "Yield 20 serves",
+      "shelf_life": "14 Days",
+      "image": "",
+      "ingredients": [
+        {
+          "text": "1.5kg Live Pipis, purged and rinsed ",
+          "heading": false
+        },
+        {
+          "text": "250ml Dry White Wine ",
+          "heading": false
+        },
+        {
+          "text": "100g Banana Shallots, finely sliced ",
+          "heading": false
+        },
+        {
+          "text": "20g Garlic, finely sliced ",
+          "heading": false
+        },
+        {
+          "text": "5g Thyme",
+          "heading": false
+        },
+        {
+          "text": "750g Unsalted Butter, Softened ",
+          "heading": false
+        },
+        {
+          "text": "150g Cooked Pipi Meat, Finely Chopped ",
+          "heading": false
+        },
+        {
+          "text": "80g Reduced Pipi Cooking Liquor ",
+          "heading": false
+        },
+        {
+          "text": "20g Chives, Finely Sliced ",
+          "heading": false
+        },
+        {
+          "text": "10g Flat Leaf Parsley, Finely Chopped ",
+          "heading": false
+        },
+        {
+          "text": "Zest Of 1 Lemon ",
+          "heading": false
+        },
+        {
+          "text": "30ml Lemon Juice ",
+          "heading": false
+        },
+        {
+          "text": "3g Native Pepper Berry ",
+          "heading": false
+        },
+        {
+          "text": "Sea Salt, Only If Required ",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Place the pipis, white wine, half the shallots, half the garlic and thyme in a covered saucepan. Cook over high heat for 2–4 minutes, shaking occasionally, until the shells open. ",
+        "Remove the pipis immediately. Strain the cooking liquid through muslin or a coffee filter to remove sand and shell fragments. \n",
+        "Remove the pipi meat from the shells and finely chop it. Discard any pipis that did not open. \n",
+        "Place the strained liquor in a clean saucepan with the remaining shallots and garlic. Reduce gently until approximately 80 g remains. Cool completely. \n",
+        "Beat the softened butter until light. Gradually mix in the cold pipi reduction. \n",
+        "Fold through the chopped pipi meat, chives, parsley, lemon zest, lemon juice and pepperberry. \n",
+        "Check the seasoning. The pipi liquor will already be salty, so only add salt after tasting\n",
+        "Roll into logs or store in a sealed container under refrigeration. For service efficiency, it can also be portioned and frozen\n"
+      ],
+      "dish": [
+        "Local Market Fish"
+      ]
+    },
+    {
+      "id": "new-recipe-2",
+      "slug": "verjus-mignonette",
+      "title": "VERJUS MIGNONETTE",
+      "chapter": 3,
+      "page": null,
+      "yield": "Yield: 30 serves",
+      "shelf_life": "Shelf Life: 30 Days",
+      "image": "",
+      "ingredients": [
+        {
+          "text": "300g Banana Shallots, Brunoise",
+          "heading": false
+        },
+        {
+          "text": "700ml Vejus",
+          "heading": false
+        },
+        {
+          "text": "15g Cracked Black Pepper",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Peel & fine dice banana shallots. keep these as small as possible. Add to a large squeeze bottle.",
+        "Add Verjus over the top and allow to sit. ",
+        "Add toasted & cracked black pepper and shake bottle to mix throughly. "
+      ],
+      "dish": [
+        "Sydney Rock Oysters"
+      ]
+    },
+    {
+      "id": "new-recipe-3",
+      "slug": "marie-rose-cocktail-sauce",
+      "title": "MARIE ROSE COCKTAIL SAUCE",
+      "chapter": 4,
+      "page": null,
+      "yield": "Yield 30 serves",
+      "shelf_life": "Shelf Life: 60 days",
+      "image": "",
+      "ingredients": [
+        {
+          "text": "825g Whole Mayonnaise",
+          "heading": false
+        },
+        {
+          "text": "85g Heinz Tomato Sauce",
+          "heading": false
+        },
+        {
+          "text": "25g Worcestershire Sauce",
+          "heading": false
+        },
+        {
+          "text": "50g Tobasco Sauce",
+          "heading": false
+        },
+        {
+          "text": "10g Smoked Cayenne Pepper",
+          "heading": false
+        },
+        {
+          "text": "10g Horseradish",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Add all ingredients into a large mixing bowl and thoroughly combine. Season to taste. "
+      ],
+      "dish": [
+        "CHILLED BALLINA TIGER PRAWNS"
+      ]
+    },
+    {
+      "id": "new-recipe-5",
+      "slug": "mango-ginger-crudo-sauce",
+      "title": "MANGO & GINGER CRUDO SAUCE",
+      "chapter": 4,
+      "page": null,
+      "yield": "Yield: 30 serves",
+      "shelf_life": "Shelf Life: 14 Days",
+      "image": "",
+      "dish": [
+        "RAW HOKKADIO SCALLOP CRUDO"
+      ],
+      "ingredients": [
+        {
+          "text": "300ml Fresh Coconut Water",
+          "heading": false
+        },
+        {
+          "text": "120ml Lime Juice",
+          "heading": false
+        },
+        {
+          "text": "50ml Fish Sauce",
+          "heading": false
+        },
+        {
+          "text": "50ml Brown Sugar",
+          "heading": false
+        },
+        {
+          "text": "30ml Rice Vinegar",
+          "heading": false
+        },
+        {
+          "text": "180ml Hot Water",
+          "heading": false
+        },
+        {
+          "text": "20ml Fresh Ginger, Grated",
+          "heading": false
+        }
+      ],
+      "method": [
+        "In a large mixing bowl, combine the lime juice, fish sauce, sugar, hot water and rice vinegar in a bowl. Mix thoroughly to dissolve the sugar, taste and adjust to balance"
+      ]
+    },
+    {
+      "id": "new-recipe-4",
+      "slug": "cured-egg-yolk",
+      "title": "cured egg yolk",
+      "chapter": 1,
+      "page": null,
+      "yield": "Yield 30 serves",
+      "shelf_life": "Shelf Life: 60 days",
+      "image": "",
+      "dish": [
+        "CAESAR SALAD",
+        "LOCAL RAW BEEF TARTARE"
+      ],
+      "ingredients": [
+        {
+          "text": "30 x Large Egg Yolk",
+          "heading": false
+        },
+        {
+          "text": "2kg Fine Salt",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Add 1kg of fine salt to the bottom of a 100mm hotel pan. Use the end of the eggshell to create 30 individual deep divets in the salt. ",
+        "Crack and seperate each egg yolk from the whites and gently place each yolk into its own divet.",
+        "Cover the yolks with the remaining 1kg of fine salt and allow to cure for 7 days in a room temperature environment"
+      ]
+    },
+    {
+      "id": "new-recipe-6",
+      "slug": "whipped-ricotta",
+      "title": "whipped ricotta",
+      "chapter": 1,
+      "page": null,
+      "yield": "Yield: 60 serves",
+      "shelf_life": "Shelf Life: 14 Days",
+      "image": "",
+      "dish": [
+        "Wood Fired Bread"
+      ],
+      "ingredients": [
+        {
+          "text": "2kg Ricotta",
+          "heading": false
+        },
+        {
+          "text": "500g Thickened Cream",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Add all ingredients into the Robocoupe and mix until thoroughly combined. ",
+        "Scoop into large blue piping bags and store in the cool room"
+      ]
+    },
+    {
+      "id": "new-recipe-7",
+      "slug": "yuzu-mayo",
+      "title": "YUZU MAYO",
+      "chapter": 4,
+      "page": null,
+      "yield": "Yield: 60 serves",
+      "shelf_life": "Shelf Life: 60 days",
+      "image": "",
+      "dish": [
+        "Salt & Pepper Calamari"
+      ],
+      "ingredients": [
+        {
+          "text": "3L Whole Egg Mayonnaise",
+          "heading": false
+        },
+        {
+          "text": "500ml Yuzu Juice",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Combine all ingredients in a large mixing bowl and throughly mix. Store in squeeze bottles in the cool room. "
+      ]
+    },
+    {
+      "id": "new-recipe-8",
+      "slug": "spicy-tomato-vodka-sauce",
+      "title": "spicy tomato vodka sauce",
+      "chapter": 4,
+      "page": null,
+      "yield": "Yield 40 serves",
+      "shelf_life": "Shelf Life: 10 Days",
+      "image": "",
+      "dish": [
+        "Spicy Tomato Vodka Rigatoni"
+      ],
+      "ingredients": [
+        {
+          "text": "100ml Olive Oil",
+          "heading": false
+        },
+        {
+          "text": "275g White Onion, Diced",
+          "heading": false
+        },
+        {
+          "text": "75g Garlic, Minced",
+          "heading": false
+        },
+        {
+          "text": "1.2kg Tomato Sugo",
+          "heading": false
+        },
+        {
+          "text": "600g Vodka",
+          "heading": false
+        },
+        {
+          "text": "2.2kg Thickened Cream",
+          "heading": false
+        }
+      ],
+      "method": [
+        "In a large saucepan, cook onion, garlic on medium heat until softened, about 5 minutes.",
+        "Add tomato sugo, red pepper flakes, and cook for 10 minutes on medium heat until tomato sugo has darkened in colour.  ",
+        "Add the vodka and cook for a further 8 minutes until the alcohol has cooked off. ",
+        "Add the thickened cream and mix. Cool the sauce and blitz until smooth. "
+      ]
+    },
+    {
+      "id": "new-recipe-9",
+      "slug": "fermented-pineapple-chilli-glaze",
+      "title": "FERMENTED PINEAPPLE & CHILLI GLAZE",
+      "chapter": 4,
+      "page": null,
+      "yield": "Yield 30 serves",
+      "shelf_life": "Shelf Life: 45 Days",
+      "image": "",
+      "dish": [
+        "Fire Roasted Half Chook"
+      ],
+      "ingredients": [
+        {
+          "text": "3kg Whole Pineapple, Skinned",
+          "heading": false
+        },
+        {
+          "text": "90ml Fresh Lime Juice",
+          "heading": false
+        },
+        {
+          "text": "45g Fresh Ginger, Minced",
+          "heading": false
+        },
+        {
+          "text": "3 Long Red Chillis, Diced",
+          "heading": false
+        },
+        {
+          "text": "15g Whole Toasted Coriander",
+          "heading": false
+        },
+        {
+          "text": "90g Fine Salt",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Peel the pineapple, then cut it into 2 cm cubes, keeping the core. Transfer to a large bowl.",
+        "Add the lime zest and juice, followed by the salt, crushed coriander seeds and sliced chilli. \n\nMix thoroughly, gently squeezing the ingredients together by hand to release plenty of juice.",
+        "Pack the sambal into large vaccum bags, leaving 1 cm of space at the top. Ensure the pineapple is completely covered by the liquid. ",
+        "Vaccum tightly and let sit for 4 days to ferment. Keep an eye on the bag. "
+      ]
+    },
+    {
+      "id": "new-recipe-10",
+      "slug": "chicken-fat-gravy",
+      "title": "CHICKEN FAT GRAVY",
+      "chapter": 5,
+      "page": null,
+      "yield": "Yield: 30 serves",
+      "shelf_life": "Shelf Life: 14 Days",
+      "image": "",
+      "dish": [
+        "Fire Roasted Half Chicken"
+      ],
+      "ingredients": [
+        {
+          "text": "1 x 2.5kg Bone Roasters Chicken Jus 25 Brix",
+          "heading": false
+        },
+        {
+          "text": "225g Gravox Chicken Gravy Powder",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Heat chicken jus in a large pot and add 225g chicken powder and heat until thickened. ",
+        "Store in a sealed container in the cool room. "
+      ]
+    },
+    {
+      "id": "new-recipe-11",
+      "slug": "burnt-apple-sauce",
+      "title": "burnt apple sauce",
+      "chapter": 4,
+      "page": null,
+      "yield": "Yield 20 serves",
+      "shelf_life": "Shelf Life: 14 Days",
+      "image": "",
+      "dish": [
+        "Heritage Pork Chop "
+      ],
+      "ingredients": [
+        {
+          "text": "1kg Green Apples",
+          "heading": false
+        },
+        {
+          "text": "100g Unsalted Butter",
+          "heading": false
+        },
+        {
+          "text": "30ml Apple Cider Vinegar",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Cut apples into halfs and remove the seeds and stem.",
+        "Toss in the vinegar and cook them in the combine oven for 20 minutes on 200ºc or until soft. ",
+        "Add the unsalted butter and blend in the Robocoupe into a smooth puree. ",
+        "Pass through a fine sieve to ensure there are no lumps. Store in a squeeze bottle in the refrigerator. "
+      ]
+    },
+    {
+      "id": "new-recipe-12",
+      "slug": "new-recipe-12",
+      "title": "New recipe",
+      "chapter": 4,
+      "page": null,
+      "yield": "",
+      "shelf_life": "",
+      "image": "",
+      "dish": [],
+      "ingredients": [],
+      "method": []
+    },
+    {
+      "id": "new-recipe-13",
+      "slug": "truffle-mayo",
+      "title": "truffle mayo",
+      "chapter": 4,
+      "page": null,
+      "yield": "Yield: 30 serves",
+      "shelf_life": "Shelf Life: 30 Days",
+      "image": "",
+      "dish": [
+        "Twice Fried Potatoes"
+      ],
+      "ingredients": [
+        {
+          "text": "900ml Mayonnaise",
+          "heading": false
+        },
+        {
+          "text": "100g Truffle Paste",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Add all ingredients into a large mixing bowl and whisk until combined. ",
+        "Store in squeeze bottles in the cool room."
+      ]
+    },
+    {
+      "id": "new-recipe-14",
+      "slug": "fire-roasted-banana-pudding",
+      "title": "fire roasted banana pudding",
+      "chapter": 8,
+      "page": null,
+      "yield": "Yield: 30 serves",
+      "shelf_life": "Shelf Life: 7 Days",
+      "image": "",
+      "dish": [
+        "Banana Pudding"
+      ],
+      "ingredients": [
+        {
+          "text": "BANANA PUDDING CREAM",
+          "heading": true
+        },
+        {
+          "text": "8 egg yolks",
+          "heading": false
+        },
+        {
+          "text": "225g caster sugar",
+          "heading": false
+        },
+        {
+          "text": "95ml Marsala Liqueur",
+          "heading": false
+        },
+        {
+          "text": "1.875kg Mascarpone",
+          "heading": false
+        },
+        {
+          "text": "937.5 g Crème Fraiche",
+          "heading": false
+        },
+        {
+          "text": "8 Egg Whites",
+          "heading": false
+        },
+        {
+          "text": "MISO RUM CARAMEL",
+          "heading": true
+        },
+        {
+          "text": "435g Caster Sugar",
+          "heading": false
+        },
+        {
+          "text": "265ml Water",
+          "heading": false
+        },
+        {
+          "text": "85ml Sailor Jerrys Spiced Rum",
+          "heading": false
+        },
+        {
+          "text": "530ml Thickened Cream",
+          "heading": false
+        },
+        {
+          "text": "335g Unsalted Butter",
+          "heading": false
+        },
+        {
+          "text": "30g White Miso",
+          "heading": false
+        },
+        {
+          "text": "CARAMALISED BANANAS",
+          "heading": true
+        },
+        {
+          "text": "1kg Fresh Bananas",
+          "heading": false
+        },
+        {
+          "text": "80g Caster Sugar",
+          "heading": false
+        }
+      ],
+      "method": [
+        "BANANA PUDDING CREAM",
+        "Make the banana cream, whisk yolks, sugar, Marsala, and 1 tbsp water in a heatproof bowl over a saucepan of simmering water until pale and thick (2-4 minutes); set aside to cool.",
+        "Whisk mascarpone and crème fraîche to combine, then fold through banana cream.",
+        "Whisk egg whites in a separate bowl until soft peaks form, then fold through the mascarpone mixture. Leave to cool in the cool room. ",
+        "MISO RUM CARAMEL",
+        "Add sugar into a pot with water. Cook down until dark brown. Add cream slowly and whisk. ",
+        "Add cubed butter and whisk until combined. Pour into a sheet pan and refrigerate. ",
+        "Once cool and solid, put into the robocoupe, add 200ml rum and whip to a smooth paste. Put into piping bags and set in the cool room. Note - BAG will not freeze due to the alcohol content",
+        "TOFFEE BANANAS ",
+        "Slice the bananas into thick 1/2cm chunks. Lay on a flat tray and dust with caster sugar. Using the blowtorch, caramalise the sugar on top of the bananas. ",
+        "TO BUILD",
+        "Add everything into the serving bowl and build in thin layers in this order. \n\n1. Zabaione Cream\n2. Savoiardi Biscuits\n3. Bananas\n4. Miso Rum Caramel \n5. Zabaione Cream\n6. Savoiardi Biscuits\n7. Bananas\n8. Miso Rum Caramel \n9. Zabaione Cream\n"
+      ]
+    },
+    {
+      "id": "new-recipe-15",
+      "slug": "whipped-coconut-cream",
+      "title": "Whipped coconut cream",
+      "chapter": 8,
+      "page": null,
+      "yield": "",
+      "shelf_life": "",
+      "image": "",
+      "dish": [
+        "Passionfruit Pavlova "
+      ],
+      "ingredients": [
+        {
+          "text": "1L Coconut Cream",
+          "heading": false
+        },
+        {
+          "text": "200g Icing Sugar",
+          "heading": false
+        }
+      ],
+      "method": [
+        "Add coconut cream and ice sugar into a large mixing bowl and whip until combined throughly. "
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/api/photo/0fb87a4bd7af2a954f4b9f2b.jpg",
+      "caption": "THE RIG, FULLY LOADED"
+    },
+    {
+      "src": "/api/photo/1720dd7d13c2da5daf621927.jpg",
+      "caption": "WHOLE RACK OF BEEF"
+    },
+    {
+      "src": "/api/photo/a5bf3b6269cbf32aa64b291e.jpg",
+      "caption": "FIRE ROASTED CHICKEN, CHILLI & BASIL"
+    },
+    {
+      "src": "/api/photo/effd3ccb5d4b9f0ddaa9d5ac.jpg",
+      "caption": "PACIFIC OYSTERS, POMEGRANATE MIGNONETTE"
+    },
+    {
+      "src": "/api/photo/45a6b319a985c01188ecef1c.jpg",
+      "caption": "LOCAL SNAPPER, YUZU BEURRE BLANC"
+    },
+    {
+      "src": "/api/photo/d13f032b0a3eac4629d5f73a.jpg",
+      "caption": "WA ROCK LOBSTER ON ICE"
+    },
+    {
+      "src": "/api/photo/1580a1c0a9ee7bf8f7eea873.jpg",
+      "caption": "BALLINA PIPIS"
+    },
+    {
+      "src": "/api/photo/3141f1e9ed267181df989d86.jpg",
+      "caption": "THE PIZZA OVEN"
+    },
+    {
+      "src": "/api/photo/a0d66aea7c9f53b78bd57410.jpg",
+      "caption": "BURRATA, FENNEL JAM"
+    },
+    {
+      "src": "/api/photo/47a4fe8ab26356c4f355db5d.jpg",
+      "caption": "KINGFISH CRUDO"
+    }
+  ],
+  "galleryRev": 3
+}
